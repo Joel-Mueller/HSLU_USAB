@@ -37,5 +37,3 @@
 ![image.png](Images/main/main_8.png)
 
 ![image.png](Images/main/main_9.png)
-
-[Old empathy](Old%20empathy.md)
