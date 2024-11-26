@@ -1,8 +1,8 @@
 # 🫶 Empathy, Vertrautheit, Intuition
 
-[Learn Facts](LearnFacts/Learn%20Facts%20SW03.md)
+[💡 Learn Facts](LearnFacts/Learn%20Facts%20SW03.md)
 
-[Transfer Task](TransferTasks/Transfer%20Task%20SW03.md)
+[✍️ Transfer Task](TransferTasks/Transfer%20Task%20SW03.md)
 
 ## Scenario Persona
 
