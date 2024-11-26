@@ -22,59 +22,59 @@ Based on these 10 Questions, we will analyse first two apps that are similar to 
 
 - **LinkedIn**: Has an intuitive layout with defined sections like "Jobs," "My Network," and "Messages" to make it easy to navigate. With this design, the target group “professionals” can find easy what they need
 
-![image.png](Old%20empathy%2010cf92957e7b803bb91befc2f28b7c8e/image.png)
+![image 2.png](Images/image%202.png)
 
 - **Airbnb**: Simple navigation for finding accommodations by destination, check-in/out dates, and guests. The target group can filter after their preferences very easy and quickly
 
-![image.png](Old%20empathy%2010cf92957e7b803bb91befc2f28b7c8e/image%201.png)
+![image.png](image%201%201.png)
 
 - Our implementation
     - **Simple navigation**: In our tab bar, the user can choose between discovering new recipes, the recipes marked as favourites, upcoming events and messaging services.
     
-    ![image.png](Old%20empathy%2010cf92957e7b803bb91befc2f28b7c8e/image%202.png)
+    ![image.png](image%202%201.png)
     
     - **Step-by-step instructions**: Each recipe is as easy as possible to cook
     
-    ![image.png](Old%20empathy%2010cf92957e7b803bb91befc2f28b7c8e/image%203.png)
+    ![image.png](Images/image%203.png)
     
     - **Search and filter functionality**: Users can search for recipes by vegetables and fruits that are in season
     
-    ![image.png](Old%20empathy%2010cf92957e7b803bb91befc2f28b7c8e/image%204.png)
+    ![image.png](Images/image%204.png)
     
 
 ### 2. **Which familiar elements do you use?**
 
 - **LinkedIn**: Uses familiar social media elements like newsfeeds, likes, and shares, which users recognise from platforms like Instagram. It also offers a messaging system similar to traditional email or direct messaging.
 
-![image.png](Old%20empathy%2010cf92957e7b803bb91befc2f28b7c8e/image%205.png)
+![image.png](Images/image%205.png)
 
 - **Airbnb**: Familiar elements like user reviews and ratings for properties, as well as a heart icon to save favorite listings or the share button.
 
-![image.png](Old%20empathy%2010cf92957e7b803bb91befc2f28b7c8e/image%206.png)
+![image.png](Images/image%206.png)
 
 - Our implementation
     - **Bookmarking/favourites**: Users can save their favourite recipes for easy and fast access like a video from instagram
     
-    ![image.png](Old%20empathy%2010cf92957e7b803bb91befc2f28b7c8e/image%207.png)
+    ![image.png](Images/image%207.png)
     
     - **Ratings**: People can rate a recipe with the well known 5-star system. They already know this from google, amazon, blogs and a lot of other sites. The average rating can then be viewd on the homepage
         
-        ![image.png](Old%20empathy%2010cf92957e7b803bb91befc2f28b7c8e/image%208.png)
+        ![image.png](Images/image%208.png)
         
-        ![image.png](Old%20empathy%2010cf92957e7b803bb91befc2f28b7c8e/image%209.png)
+        ![image.png](Images/image%209.png)
         
 
 ### 3. **Errors can occur**
 
 - **LinkedIn**: You get advertisements served, you maybe don’t want to see or being associated with. With linked in, you can hide, report the add or asking why you see the advertisement.
 
-![image.png](Old%20empathy%2010cf92957e7b803bb91befc2f28b7c8e/image%2010.png)
+![image.png](Images/image%2010.png)
 
 - **Airbnb**: Errors can occur when a guest books accommodation that isn’t accurately described, leading to dissatisfaction. A user can report this issue.
 - Our Implementation
     - **Ingredient substitutions**: If a user follows a recipe and substitutes an ingredient that doesn’t work well, the result could be unsatisfactory. We want to offer a feature where the user can substitute a product properly.
     
-    ![image.png](Old%20empathy%2010cf92957e7b803bb91befc2f28b7c8e/image%2011.png)
+    ![image.png](Images/image%2011.png)
     
 
 ### 4. **Special trust, security, data protection is required**
@@ -93,7 +93,7 @@ Based on these 10 Questions, we will analyse first two apps that are similar to 
     - **Complex registration**: We want the registration prozess as easy as possible. The user should be able to use the app almost right away. Therefore, we would implement a sing up with  Google, Apple or Amazon feature.
     - **Overwhelming interface**: If there are too many features, the user gets confused or overwhelmed. In our app, the user has not to many features. But for the things he wants to use the app, it is as easy as possible.
     
-    ![image.png](Old%20empathy%2010cf92957e7b803bb91befc2f28b7c8e/image%2012.png)
+    ![image.png](Images/image%2012.png)
     
     - **Device compatibility**: If the app isn’t optimised for various devices. Our app should be on the Google Play store and on the App Store. Furthermore, the app should be also on the web, so when the user has no iPhone or Android phone, he will be able to use the app through the browser.
 
@@ -101,7 +101,7 @@ Based on these 10 Questions, we will analyse first two apps that are similar to 
 
 - **LinkedIn**: When the user gets annoying emails or push notifications, where he doesn’t show interest.
 
-![image.png](Old%20empathy%2010cf92957e7b803bb91befc2f28b7c8e/image%2013.png)
+![image.png](Images/image%2013.png)
 
 - **Airbnb**: A guest could feel overwhelmed when trying to book accommodation in a popular destination with too many options or too few relevant results.
 - Our solution
@@ -113,7 +113,7 @@ Based on these 10 Questions, we will analyse first two apps that are similar to 
 - **LinkedIn**: Users control who they connect with, who can view their profile, and what notifications they receive. They can also control their visibility to recruiters.
 - **Airbnb**: Guests can adjust booking preferences (price, amenities, cancellation policies), and hosts can set their rules (minimum stays, check-in times). Both parties have the option to cancel under certain conditions.
 
-![image.png](Old%20empathy%2010cf92957e7b803bb91befc2f28b7c8e/image%201.png)
+![image.png](image%201%201.png)
 
 - Our implementation
     - **Ingredient toggles**: Users can switch out ingredients they don’t like, and the app provides suggestions for alternatives.

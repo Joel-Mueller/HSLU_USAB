@@ -6,11 +6,11 @@ For the first attestation, we did a poster. Today, we improved the visual clarit
 
 **Poster before**
 
-![image.png](Learn%20Facts%202e5bfa8ecc5c49e991dd8c5f17bf8c9f/image.png)
+![image 21.png](image%2021.png)
 
 **Poster after**
 
-![image.png](Learn%20Facts%202e5bfa8ecc5c49e991dd8c5f17bf8c9f/image%201.png)
+![image.png](image%201%207.png)
 
 ## What have we learned?
 
