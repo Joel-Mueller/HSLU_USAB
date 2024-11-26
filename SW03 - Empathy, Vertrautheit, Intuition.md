@@ -23,13 +23,13 @@ A good cooking apps must have good empathy to truly connect with users and suppo
 - CookPad
     - Understanding users unique lifestyle and recipe suggestions: Cookpad doesn’t have a suggestions page, relying only on recently searched recipes to understand user preferences. This approach limits personalisation and reduces the app’s ability to adapt to users’ tastes, or ingredient availability, making it feel less intuitive and engaging.
         
-        ![Screenshot 2024-11-07 at 08.13.54.jpeg](Screenshot_2024-11-07_at_08.13.54.jpeg)
+        ![Screenshot 2024-11-07 at 08.13.54.jpeg](sw03_3.jpeg)
         
     - Notifications: Cookpad sends notifications to keep users engaged by sharing seasonal recipes, cooking tips. Unfortunately, there is nothing personalized like notifications on past searches or cooked recipes. Cookpad also doesn’t have the option for users to adjust notification settings. The user is not in control over the frequency and types of alerts they receive. It either no or all notifications, this can also be set in the iOS or Android notification setting.
 - Tasty
     - Understanding users unique lifestyle and recipe suggestions: Tasty includes a Discover page with recipe suggestions, providing a more personalized experience compared to basic search history. However, the basis for these suggestions is unclear, making it difficult for users to understand if recommendations are tailored to their tastes, dietary preferences, or ingredient availability. This lack of transparency can make the Discover page feel less intuitive, leaving users uncertain about how well the app truly understands their preferences.
         
-        ![Screenshot 2024-11-07 at 08.15.41.jpeg](Screenshot_2024-11-07_at_08.15.41.jpeg)
+        ![Screenshot 2024-11-07 at 08.15.41.jpeg](sw03_4.jpeg)
         
     - Notification: Like Cookpad, Tasty sends notifications to keep users engaged by sharing seasonal recipes, cooking tips. Unlike Cookpad the notifications are personalised on past searches or cooked recipes. Tasty doesn’t have the option for users to adjust notification in the settings. There is a button for notifications in the settings, but this button only forward's you to the notification settings of the Smartphone itself, where you can either allow all notifications or no notifications.
 
@@ -40,20 +40,20 @@ Apps can enhance user experience by building familiarity through intuitive desig
 - CookPad
     - Intuitive Design: Annabella can easily filter which products she wants to have in her search and which she doesn't want to have. She can easily filter products by typing them into the text box. This is much more intuitive than selecting filters from a menu.
         
-        ![Screenshot 2024-11-07 at 08.09.40.jpeg](Screenshot_2024-11-07_at_08.09.40.jpeg)
+        ![Screenshot 2024-11-07 at 08.09.40.jpeg](sw03_2.jpeg)
         
     - Familiar layouts: Cookpad is very easy to use and has a lot of familiar elements in it. For example, the "Today's Popular Searches" feature is similar to the Spotify search feature, which offers a list of trending or frequently searched items. This layout makes navigation intuitive for users who are already accustomed to other popular platforms, adding a sense of familiarity and ease.
         
-        ![Screenshot 2024-11-07 at 12.43.20.jpeg](Screenshot_2024-11-07_at_12.43.20.jpeg)
+        ![Screenshot 2024-11-07 at 12.43.20.jpeg](sw03_5.jpeg)
         
 - Tasty
     - Intuitive Design: When Annabella searches for something, she has some quick and popular options to choose from. Unfortunately, there is no filter option to filter out products or ingredients she doesn't want.
         
-        ![IMG_2920.PNG](IMG_2920.png)
+        ![IMG_2920.PNG](sw04_21.png)
         
     - Familiar layouts: The Discover feature provides a variety of recipe options that other app users have already tried. Annabella is familiar with this concept from Instagram, so she quickly realises she can scroll through and explore new recipes with ease. Unfortunately also there is no filtering option for things she doesn't want to see.
         
-        ![IMG_2919.PNG](IMG_2919.png)
+        ![IMG_2919.PNG](sw03_7.png)
         
 
 | Scenario-part | Finding / Description | Garret-L / Severity | Proposal  |
@@ -79,7 +79,7 @@ Serious Problem | Annabella wishes she could replace that ingredient for somethi
 
 - In the Discover feature, Annabella finds recipes tailored to her preferences. With each interaction she has with the app, MealBestie learns more about her tastes. Additionally, a tag above each suggestion explains why the app has recommended it to her.
 
-![image 14.png](Images/image%2014.png)
+![sw03_6.png](sw03_6.png)
 
 - Notifications: Annabella receives notifications tailored to her preferences. Since she only wants notifications from chat interactions within the app, she can adjust this in the settings.
 
@@ -87,8 +87,8 @@ Serious Problem | Annabella wishes she could replace that ingredient for somethi
 
 - Filter Recipes: Annabella can easily filter the recipes by just typing in the ingredients she wants and the ones she doesn't want in the filter pop up. If she makes a typo, Mealbestie is still able to filter the recipes. For example, if she types "eG" instead of egg, the app will still get it. There are also two quick filter toggles for trending recipes and seasonal recipes.
 
-![image.png](image%201%202.png)
+![image.png](sw03_1.png)
 
 - Familiar Layout: Annabella is already familiar with the navigation bar and icons from other apps, making it easy for her to quickly find her way around MealBestie. From day one, she’ll be able to navigate smoothly, using the app frequently as everything feels intuitive and user-friendly.
 
-![image.png](image%202%202.png)
+![image.png](oe_4.png)

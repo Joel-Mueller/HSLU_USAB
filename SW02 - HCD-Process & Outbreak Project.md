@@ -7,7 +7,7 @@
 
 - User: A student (in a technical degree) with a good digital affinity, who wants to learn how to cook but has a strict schedule with not a lot of free time and needs to approach cooking in an efficient way.
 
-![image.png](Images/image.png)
+![sw02_1.png](Images/sw02/sw02_1.png)
 
 - Goals: I don‘t want a complicated recipe, I want to cook with in season products (cheaper, sustainable and tastier), I want to save time when I cook.
 - Tasks: Scroll, search for a recipe, gather ingredients, cook, favorite recipe (optional).
@@ -39,7 +39,7 @@ We skipped this one because we already have the idea
 
 ## 5 Prototype a first UI-Flow
 
-![IMG_7763.HEIC](SW02%20-%20HCD-Process%20&%20Outbreak%20Project%20cbf7658200db4eb49e2cc3db2d5e78c6/IMG_7763.heic)
+![IMG_7763.HEIC](Images/sw02/sw02_2.png)
 
 ## 6 Test the prototype
 

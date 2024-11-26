@@ -38,7 +38,7 @@ There are many navigation concepts that can be used and they all serve different
 
 **Horizontal Navigation**
 
-![Image source: Screenshot from post.ch](Images/image%2016.png)
+![Image source: Screenshot from post.ch](sw04_19.png)
 
 Image source: Screenshot from post.ch
 
@@ -57,7 +57,7 @@ Cons:
 
 **Vertical navigation:**
 
-![Image source: Screenshot of this Notion’s side menu](image%201%203.png)
+![Image source: Screenshot of this Notion’s side menu](sw04_2.png)
 
 Image source: Screenshot of this Notion’s side menu
 
@@ -74,7 +74,7 @@ Cons:
 
 **Dropdown Menu:**
 
-![Image source: Screenshot from post.ch](image%202%203.png)
+![Image source: Screenshot from post.ch](sw04_3.png)
 
 Image source: Screenshot from post.ch
 
@@ -105,13 +105,13 @@ Cons:
 - Invisible at first sight
 - Always requires an action to be accessed (like clicking a button)
 
-![Image source: Screenshot from SW04 Navigation presentation](40dac896-edf8-4a9e-8ee2-023ee21e21ee.png)
+![Image source: Screenshot from SW04 Navigation presentation](sw04_1.png)
 
 Image source: Screenshot from SW04 Navigation presentation
 
 **Breadcrumbs:**
 
-![image.png](image%203%201.png)
+![image.png](sw04_5.png)
 
 Pros:
 
@@ -123,7 +123,7 @@ Pros:
 
 **Hamburger Menu:**
 
-![Image source: Screenshot from Gmail](IMG_8210.jpg)
+![Image source: Screenshot from Gmail](sw04_17.jpg)
 
 Image source: Screenshot from Gmail
 
@@ -139,7 +139,7 @@ Cons:
 
 **Nested Doll:**
 
-![Image source: Screenshot from SW04 Navigation presentation](image%204%201.png)
+![Image source: Screenshot from SW04 Navigation presentation](sw04_11.png)
 
 Image source: Screenshot from SW04 Navigation presentation
 
@@ -153,7 +153,7 @@ Cons:
 
 **Tabbed View:**
 
-![Image source: Screenshot from SBB Mobile app](IMG_8209.jpg)
+![Image source: Screenshot from SBB Mobile app](sw04_18.jpg)
 
 Image source: Screenshot from SBB Mobile app
 

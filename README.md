@@ -37,23 +37,23 @@ Link to draw io:
 
 - For every topic, find two products how they do it and then integrate it into our product
 
-![image 20.png](image%2020.png)
+![main_3.png](Images/main/main_3.png)
 
-![image.png](image%201%206.png)
+![image.png](Images/main/main_1.png)
 
-![image.png](image%202%206.png)
+![image.png](Images/main/main_2.png)
 
 - learnfacts
 - Grading System
 
-![image.png](image%203%204.png)
+![image.png](Images/main/main_5.png)
 
 ### Weekly
 
-![image.png](image%204%204.png)
+![image.png](Images/main/main_7.png)
 
-![image.png](image%205%203.png)
+![image.png](Images/main/main_8.png)
 
-![image.png](image%206%203.png)
+![image.png](Images/main/main_9.png)
 
 [Old empathy](Old%20empathy.md)
