@@ -12,7 +12,7 @@
 - [🧪 SW13 - Usability Testing](SW13%20-%20Usability%20Testing.md)
 - [🔁 Templates](Templates.md)
 - [📱 Link to figma](https://www.figma.com/design/WFyYDN7eLijPJsRvvZk4Tk/MealBestie?node-id=0-1&t=5Ng1biHRU31EesTs-1)
-- [🎨 Link To Draw io](https://drive.google.com/file/d/1hFEY_kcCdUKH5Hj8J2mS8DR260-CKODJ/view?usp=share_link)
+- [🎨 Draw io](Cooking%App.drawio)
 - [👨‍🏫 Notion Example From Professor](https://concise-clownfish-137.notion.site/Beispiel-Projekt-Outbreak-Fitness-Tool-10337ff349ae8109943ac8a4466ba8d0)
 
 ## Project to do
