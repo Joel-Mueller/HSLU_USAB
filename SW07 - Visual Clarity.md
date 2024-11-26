@@ -1,4 +1,4 @@
-# Visual Clarity
+# 🔎 Visual Clarity
 
 [Learn Facts](LearnFacts/Learn%20Facts%20SW07.md)
 

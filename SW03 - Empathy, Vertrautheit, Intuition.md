@@ -1,4 +1,4 @@
-# Empathy, Vertrautheit, Intuition
+# 🫶 Empathy, Vertrautheit, Intuition
 
 [Learn Facts](LearnFacts/Learn%20Facts%20SW03.md)
 
