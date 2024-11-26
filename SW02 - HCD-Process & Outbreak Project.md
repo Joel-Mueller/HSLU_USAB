@@ -1,4 +1,4 @@
-# HCD Process & Outbreak Project
+# Process & Outbreak Project
 
 ## 1 Define the Product
 

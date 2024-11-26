@@ -1,6 +1,6 @@
+# Navigation
 
-
-[Learn Facts](Learn%20Facts%20SW04.md)
+[Learn Facts](LearnFacts/Learn%20Facts%20SW04.md)
 
 ## Scenario
 
@@ -22,23 +22,23 @@ Navigation is a crucial part to any system, including apps. A good navigation co
     
     The app has a switchable view, but the default and most practical is the monthly view that displays all events taking place as shown in Figure 4. It displays them chronologically for each day and is able to fit up to five events.
     
-    ![Figure 1: Collapsed hamburger menu in Calendars app](sw04_9.jpg)
+    ![Figure 1: Collapsed hamburger menu in Calendars app](Images/sw04/sw04_9.jpg)
     
     Figure 1: Collapsed hamburger menu in Calendars app
     
-    ![Figure 2: Expanded hamburger menu in Calendars app](sw04_16.jpg)
+    ![Figure 2: Expanded hamburger menu in Calendars app](Images/sw04/sw04_16.jpg)
     
     Figure 2: Expanded hamburger menu in Calendars app
     
-    ![Figure 3: Settings menu expanded in Calendar app](sw04_15.jpg)
+    ![Figure 3: Settings menu expanded in Calendar app](Images/sw04/sw04_15.jpg)
     
     Figure 3: Settings menu expanded in Calendar app
     
-    ![Figure 4: Monthly view of Calendar app](sw04_7.jpg)
+    ![Figure 4: Monthly view of Calendar app](Images/sw04/sw04_7.jpg)
     
     Figure 4: Monthly view of Calendar app
     
-    ![Figure 5: Tabbed view of Calendar app, which offers only a scrolling system between months.](sw04_10.jpg)
+    ![Figure 5: Tabbed view of Calendar app, which offers only a scrolling system between months.](Images/sw04/sw04_10.jpg)
     
     Figure 5: Tabbed view of Calendar app, which offers only a scrolling system between months.
     
@@ -52,19 +52,19 @@ Navigation is a crucial part to any system, including apps. A good navigation co
     
     Similarly, the Profile tab looks very busy at a first glance and requires a thorough reading-through in order to understand where to press next to reach the correct setting change, unlike the Calendars app that has all the settings together in one place (Figure 9).
     
-    ![Figure 6: Plan tab of the SBB Mobile app](sw04_14.jpg)
+    ![Figure 6: Plan tab of the SBB Mobile app](Images/sw04/sw04_14.jpg)
     
     Figure 6: Plan tab of the SBB Mobile app
     
-    ![Figure 7: Trips tab of the SBB Mobile app](sw04_13.jpg)
+    ![Figure 7: Trips tab of the SBB Mobile app](Images/sw04/sw04_13.jpg)
     
     Figure 7: Trips tab of the SBB Mobile app
     
-    ![Figure 8: Shops & Services tab of the SBB Mobile app](sw04_8.jpg)
+    ![Figure 8: Shops & Services tab of the SBB Mobile app](Images/sw04/sw04_8.jpg)
     
     Figure 8: Shops & Services tab of the SBB Mobile app
     
-    ![Figure 9: Profile tab of the SBB Mobile app](sw04_12.jpg)
+    ![Figure 9: Profile tab of the SBB Mobile app](Images/sw04/sw04_12.jpg)
     
     Figure 9: Profile tab of the SBB Mobile app
     
@@ -88,7 +88,7 @@ Serious Problem | Make a shortcut in the “Events” tab that will allow the us
 
 MealBestie does not have a big menu that needs to be collapsed in order to be navigated quickly, therefore the best implementation would be a tabbed view at the bottom of the screen that allows the user to quickly navigate to the place that they want to be in the app.
 
-![Figure 10: Tabbed view menu at the bottom of the MealBestie app for quick multitasking](sw04_20.png)
+![Figure 10: Tabbed view menu at the bottom of the MealBestie app for quick multitasking](Images/sw04/sw04_20.png)
 
 Figure 10: Tabbed view menu at the bottom of the MealBestie app for quick multitasking
 
@@ -96,6 +96,6 @@ Because not every day will have a farmer’s market event, it does not make sens
 
 Clicking on an event will open it out on the next screen which will provide more information such as the full address, the time, any updates regarding it, and a general overview of what will be sold. It will also have the option to favourite it, which will put it at the top of the list of events until the date of the event passes, when it will automatically be deleted.
 
-![Figure 11: Events Calendar on MealBestie](sw04_6.png)
+![Figure 11: Events Calendar on MealBestie](Images/sw04/sw04_6.png)
 
 Figure 11: Events Calendar on MealBestie

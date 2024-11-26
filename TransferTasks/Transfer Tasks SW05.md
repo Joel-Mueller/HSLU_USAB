@@ -16,7 +16,7 @@ Consider in which cases a user would wants to contact you and build a possibilit
 - To report a general problem with the app → Go to settings > Help & Support
 - To report someone misbehaving (User and/or post) → Go to the threads (example Reddit)
 
-![sw05_14.jpeg](sw05_14.jpeg)
+![sw05_14.jpeg](Images/sw05/sw05_14.jpeg)
 
 - Report recommendations if they are not suitable→ Directly on recipe page?
 - If they have food poisoning → food poisoning hotline in settings and on the bottom of each recipe

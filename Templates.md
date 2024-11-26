@@ -1,3 +1,3 @@
+# Templates
 
-
-[Learn Facts](Learn%20Facts%20Template.md)
+[Learn Facts](LearnFacts/Learn%20Facts%20Template.md)

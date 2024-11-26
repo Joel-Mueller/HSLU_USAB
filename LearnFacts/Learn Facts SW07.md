@@ -6,11 +6,11 @@ For the first attestation, we did a poster. Today, we improved the visual clarit
 
 **Poster before**
 
-![sw07_4.png](sw07_4.png)
+![sw07_4.png](Images/sw07/sw07_4.png)
 
 **Poster after**
 
-![image.png](sw07_2.png)
+![image.png](Images/sw07/sw07_2.png)
 
 ## What have we learned?
 

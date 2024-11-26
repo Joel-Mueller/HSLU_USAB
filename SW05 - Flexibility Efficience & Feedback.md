@@ -1,8 +1,8 @@
+# Flexibility, Efficience & Feedback
 
+[Learn Facts](LearnFacts/Learn%20Facts%20SW05.md)
 
-[Learn Facts](Learn%20Facts%20SW05.md)
-
-[Transfer Tasks ](Transfer%20Tasks%20SW05.md)
+[Transfer Tasks ](TransferTasks/Transfer%20Tasks%20SW05.md)
 
 ## Scenario Persona
 
@@ -19,11 +19,11 @@ Cooking apps must emphasize flexibility and efficiency to meet users‘ needs. F
 - CookPad
     - User preferences: After clicking on the settings tab on the menu of the CookPad, we come across a list of tabs. There is a lack of flexibility for the user when it comes to inputting their preferences. There is no option to include food restrictions,  preferred units of measurement, amongst others. Additionally the design is not very intuitive, the user may think that they can add their preferences in the account tab but it only includes subscription offers and the user’s friends. Nonetheless, the user is able to change the theme for the app (see figure 2 ) where they can decide if they would prefer to use the device settings, light or dark mode.
     
-    ![Figure 1 : Settings screen - CookPad](sw05_7.png)
+    ![Figure 1 : Settings screen - CookPad](Images/sw05/sw05_7.png)
     
     Figure 1 : Settings screen - CookPad
     
-    ![Figure 2 : Screen after clicking on theme tab - CookPad](sw05_11.png)
+    ![Figure 2 : Screen after clicking on theme tab - CookPad](Images/sw05/sw05_11.png)
     
     Figure 2 : Screen after clicking on theme tab - CookPad
     
@@ -31,28 +31,28 @@ Cooking apps must emphasize flexibility and efficiency to meet users‘ needs. F
     - Recipe selection: Tasty offers a high degree of flexibility when it comes to finding recipes in its massive library where users can filter by cuisine, dietary restrictions, difficulty level, allowing users to find recipes according to their specific needs.
     - Ingredient substitution: There is no flexibility when it comes to ingredient substitutions on specific recipes as you can see on figure 3 . Once you click on a recipe it shows you the reviews, list of ingredients, steps, etc, but there is no opportunity for the user to substitute the ingredients in the case of allergies.
         
-        ![Figure 3 : Recipe screen - Tasty App](sw05_5.jpeg)
+        ![Figure 3 : Recipe screen - Tasty App](Images/sw05/sw05_5.jpeg)
         
         Figure 3 : Recipe screen - Tasty App
         
     - Lists and grocery shopping capabilities: For some recipes, Tasty allows users to create shopping lists in the app, with an option to sync them to grocery delivery services (Only in the United States).
     - Tasty also has an efficient core feature which is providing step-by-step visual instructions (See figure 4 & 5 below).
     
-    ![Figure 4 : Recipe Screen - Tasty](sw05_9.png)
+    ![Figure 4 : Recipe Screen - Tasty](Images/sw05/sw05_9.png)
     
     Figure 4 : Recipe Screen - Tasty
     
-    ![Figure 5 : Screen after clicking on “Start Cooking” button](sw05_8.png)
+    ![Figure 5 : Screen after clicking on “Start Cooking” button](Images/sw05/sw05_8.png)
     
     Figure 5 : Screen after clicking on “Start Cooking” button
     
     - Additionally, Tasty asks the user in a straightforward manner what their preference is and what is the purpose of them having the app right after they register inside the app. This allows for an efficient incorporation and catering to the user through the app.  (See figures 6 & 7).
     
-    ![Figure 6 : Display of Tasty App Screen after registering on the app](sw05_10.png)
+    ![Figure 6 : Display of Tasty App Screen after registering on the app](Images/sw05/sw05_10.png)
     
     Figure 6 : Display of Tasty App Screen after registering on the app
     
-    ![Figure 7 : Next step after registering on Tasty App, questions on the expectations of the user.](sw05_6.png)
+    ![Figure 7 : Next step after registering on Tasty App, questions on the expectations of the user.](Images/sw05/sw05_6.png)
     
     Figure 7 : Next step after registering on Tasty App, questions on the expectations of the user.
     
@@ -65,15 +65,15 @@ Apps can significantly enhance user experience by integrating comprehensive feed
     
     CookPad offers a user-friendly feedback system accessible directly from the menu screen. Users can easily find the intuitive "Send feedback" tab, where they can write and submit their comments (See figures 8 & 9). The app also provides a mechanism for reporting other users' content. When viewing a user's post (recipe), there's an option to report inappropriate content. However, this action automatically blocks the reported user on your account, sending the report to the app simultaneously (See figure 10).
     
-    ![Figure 8: CookPad Menu View](sw05_4.png)
+    ![Figure 8: CookPad Menu View](Images/sw05/sw05_4.png)
     
     Figure 8: CookPad Menu View
     
-    ![Figure 9 : CookPad “Send Feedback” Screen](sw05_2.png)
+    ![Figure 9 : CookPad “Send Feedback” Screen](Images/sw05/sw05_2.png)
     
     Figure 9 : CookPad “Send Feedback” Screen
     
-    ![Figure 10 : Screen when reporting & blocking a user - CookPad App](sw05_1.png)
+    ![Figure 10 : Screen when reporting & blocking a user - CookPad App](Images/sw05/sw05_1.png)
     
     Figure 10 : Screen when reporting & blocking a user - CookPad App
     
@@ -85,7 +85,7 @@ Apps can significantly enhance user experience by integrating comprehensive feed
     
     This approach to feedback is problematic. Users are restricted and can't communicate directly through the app, potentially leading to frustration. A well-designed app would offer more feedback options or provide clear instructions to resolve any configuration issues.
     
-    ![Figure 11 : Feedback screen displaying error - Tasty App](sw05_3.png)
+    ![Figure 11 : Feedback screen displaying error - Tasty App](Images/sw05/sw05_3.png)
     
     Figure 11 : Feedback screen displaying error - Tasty App
     
@@ -119,18 +119,18 @@ Serious Problem | Annabella wishes she could replace that ingredient for somethi
 
 - User Preferences: The user can make changes on their preferences  through the user preferences tab in the profile menu/screen. This user preferences tab allows the user to input/edit their food restrictions, allergies, preffered measurement units, and language.  Allowing for ultimate flexibility and an efficient catering of the users’ needs.
 
-![Screenshot 2024-10-22 233349.png](sw05_12.png)
+![Screenshot 2024-10-22 233349.png](Images/sw05/sw05_12.png)
 
 - Ingredient Substitution: Recipes should be catered to the users according to their food restrictions and inside their users preferences. Nonetheless, if the user forgot about something and came across an ingredient they disliked in a recipe, there will be a “…” next to the ingredients on the list which will let the user know if they can exclude the ingredient for the recipe or if the ingredient cannot be excluded then it will offer replacement recommendations.
 
-![Screenshot 2024-10-22 232707.png](sw05_5.png)
+![Screenshot 2024-10-22 232707.png](Images/sw05/sw05_5.png)
 
 ### Feedback in MealBestie
 
 - Ingredient Substitution Complaint/Feedback : After the user skims through the ingredient substitution and sees that the system did not provide successful recommendations they can report this directly on the recipe screen.
 
-![Screenshot 2024-10-23 000033.png](sw05_13.png)
+![Screenshot 2024-10-23 000033.png](Images/sw05/sw05_13.png)
 
 - App Feedback: After a successful cooking session, Annabelle wants to provide her feedback on the efficiency of the app so she goes to the profile menu/screen and taps the “Send us Feedback” tab to write her thoughts and recommendations for improvement, after pressing send, her screen displays a message pop up message, letting her know that her feedback was received.
 
-![Screenshot 2024-10-23 at 11.20.03.png](sw05_16.png)
+![Screenshot 2024-10-23 at 11.20.03.png](Images/sw05/sw05_16.png)
