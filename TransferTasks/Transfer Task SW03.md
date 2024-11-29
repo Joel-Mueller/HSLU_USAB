@@ -1,5 +1,9 @@
 # Transfer Task
 
+[🏠 Home](index.md)
+
+[🫶 SW03 - Empathy, Vertrautheit, Intuition](SW03%20-%20Empathy,%20Vertrautheit,%20Intuition.md)
+
 Consider and point out where in your product:
 
 ## Errors can occur
