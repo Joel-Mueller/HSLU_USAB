@@ -1,10 +1,8 @@
 # 💪 Flexibility/Efficience & Feedback
 
-[🏠 Home](index.md)
-
-[💡 Learn Facts](LearnFacts/Learn%20Facts%20SW05.md)
-
-[✍️ Transfer Tasks ](TransferTasks/Transfer%20Tasks%20SW05.md)
+- [🏠 Home](index.md)
+- [💡 Learn Facts](LearnFacts/Learn%20Facts%20SW05.md)
+- [✍️ Transfer Tasks ](TransferTasks/Transfer%20Tasks%20SW05.md)
 
 ## Scenario Persona
 

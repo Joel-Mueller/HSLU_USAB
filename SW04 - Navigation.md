@@ -1,8 +1,7 @@
 # ⛵️ Navigation
 
-[🏠 Home](index.md)
-
-[💡 Learn Facts](LearnFacts/Learn%20Facts%20SW04.md)
+- [🏠 Home](index.md)
+- [💡 Learn Facts](LearnFacts/Learn%20Facts%20SW04.md)
 
 ## Scenario
 

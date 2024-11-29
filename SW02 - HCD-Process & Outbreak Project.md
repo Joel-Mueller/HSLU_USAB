@@ -1,6 +1,6 @@
 # 💭 HCD-Process & Outbreak Project
 
-[🏠 Home](index.md)
+- [🏠 Home](index.md)
 
 ## 1 Define the Product
 

@@ -1,8 +1,7 @@
 # 🚨 Errors & Errors-Mgmt
 
-[🏠 Home](index.md)
-
-[💡 Learn Facts](LearnFacts/Learn%20Facts%20SW06.md)
+- [🏠 Home](index.md)
+- [💡 Learn Facts](LearnFacts/Learn%20Facts%20SW06.md)
 
 ## Scenario Persona
 
