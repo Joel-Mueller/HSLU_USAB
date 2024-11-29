@@ -1,3 +1,34 @@
-title: Usability - Team 4
-description: Documentation and notes
+# Site settings
+title: "Your Site Title"
+description: "Your Site Description"
+baseurl: "" # Adjust if the site is hosted in a subdirectory
+url: "https://yourusername.github.io" # Replace with your GitHub Pages URL
+
+# Theme settings
 theme: minima
+
+# Plugins
+plugins:
+  - jekyll-menus # Plugin for menu management
+
+# Menu configuration
+menus:
+  header:
+    home:
+      title: "Home"
+      url: /index.md
+    sw02:
+      title: "SW02 - HCD-Process"
+      url: /SW02-HCD-Process-&-Outbreak-Project.md
+      items:
+        learnings:
+          title: "Learnings"
+          url: /LearnFacts/Learn-Facts-SW03.md
+
+# Markdown settings
+markdown: kramdown
+highlighter: rouge
+
+# Exclude files and directories from the site
+exclude:
+  - README.md
