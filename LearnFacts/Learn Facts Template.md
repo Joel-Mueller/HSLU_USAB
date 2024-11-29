@@ -1,5 +1,8 @@
 # Learn Facts
 
+- [🏠 Home](../index.md)
+- [🔁 Templates](../Templates.md)
+
 ## Artifacts that we have created and delivered
 
 ## What have we learned?

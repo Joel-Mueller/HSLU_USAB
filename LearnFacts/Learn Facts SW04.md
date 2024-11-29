@@ -1,5 +1,8 @@
 # Learn Facts
 
+- [🏠 Home](../index.md)
+- [⛵️ SW04 - Navigation](../SW04%20-%20Navigation.md)
+
 ## Artefacts that we have created and delivered
 
 We were split up into breakout rooms and worked on the Miro board to give feedback to the website [post.ch](http://post.ch) regarding its navigation based on the following four prompts:

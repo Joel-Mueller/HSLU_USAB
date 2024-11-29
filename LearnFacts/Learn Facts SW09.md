@@ -1,5 +1,8 @@
 # Learn Facts
 
+- [🏠 Home](../index.md)
+- [🦽 SW09 - Accessibility](../SW09%20-%20Accessibility.md)
+
 ## Artifacts that we have created and delivered
 
 ## What have we learned?

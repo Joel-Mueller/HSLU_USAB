@@ -1,5 +1,8 @@
 # Learn Facts
 
+- [🏠 Home](../index.md)
+- [🫶 SW03 - Empathy, Vertrautheit, Intuition](../SW03%20-%20Empathy,%20Vertrautheit,%20Intuition.md)
+
 ## Artefacts that we have created and delivered
 
 We made a presentation about a topic in Empathy and made a presentation about it. Each team got a half an hour time to prepare. The ressources where given and we had to extract a quick presentation and a question for the class out of it. We applied these learnings from the presentation in the following questions and also for the analysiys of two example products and of course to our own project.

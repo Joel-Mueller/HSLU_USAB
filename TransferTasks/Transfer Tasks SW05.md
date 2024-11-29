@@ -1,8 +1,7 @@
 # Transfer Tasks
 
-[🏠 Home](index.md)
-
-[💪 SW05 - Flexibility/Efficience & Feedback](SW05%20-%20Flexibility%20Efficience%20&%20Feedback.md)
+- [🏠 Home](../index.md)
+- [💪 SW05 - Flexibility/Efficience & Feedback](../SW05%20-%20Flexibility%20Efficience%20&%20Feedback.md)
 
 ## Flexibility and Efficiency
 

@@ -1,5 +1,8 @@
 # Learn Facts
 
+- [🏠 Home](../index.md)
+- [💪 SW05 - Flexibility/Efficience & Feedback](../SW05%20-%20Flexibility%20Efficience%20&%20Feedback.md)
+
 ## Artefacts that we have created and delivered
 
 We had to fill in a table on Miro where we had to discuss a question „What are the different levels of feedback and how would we apply them to our app?“

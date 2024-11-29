@@ -1,5 +1,8 @@
 # Learn Facts
 
+- [🏠 Home](../index.md)
+- [🧪 SW13 - Usability Testing](../SW13%20-%20Usability%20Testing.md)
+
 ## Artifacts that we have created and delivered
 
 ## What have we learned?

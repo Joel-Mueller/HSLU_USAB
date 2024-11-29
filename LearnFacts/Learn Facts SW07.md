@@ -1,5 +1,9 @@
 # Learn Facts
 
+- [🏠 Home](../index.md)
+- [🔎 SW07 - Visual Clarity](../SW07%20-%20Visual%20Clarity.md)
+
+
 ## Artifacts that we have created and delivered
 
 For the first attestation, we did a poster. Today, we improved the visual clarity of this poster.

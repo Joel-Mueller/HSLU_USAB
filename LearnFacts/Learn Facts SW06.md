@@ -1,5 +1,9 @@
 # Learn Facts
 
+- [🏠 Home](../index.md)
+- [🚨 SW06 - Errors & Errors-Mgmt](../SW06%20-%20Errors%20&%20Errors-Mgmt.md)
+
+
 ## Artefacts that we have created and delivered
 
 This week’s lecture was more focused on the theory: we watched a few videos about errors and error-handling, then conversed about the topic while always interacting with the teacher, answering questions and expressing our thoughts. As such, no written exercises or physical artefacts where produced.

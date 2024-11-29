@@ -1,5 +1,8 @@
 # Learn Facts
 
+- [🏠 Home](../index.md)
+- [📝 SW12 - UX Writing](../SW12%20-%20UX%20Writing.md)
+
 ## Artifacts that we have created and delivered
 
 ## What have we learned?

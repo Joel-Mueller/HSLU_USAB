@@ -1,5 +1,8 @@
 # Learn Facts
 
+- [🏠 Home](../index.md)
+- [🕦 SW10 - Consistency](../SW10%20-%20Consistency.md)
+
 ## Artifacts that we have created and delivered
 
 ## What have we learned?
