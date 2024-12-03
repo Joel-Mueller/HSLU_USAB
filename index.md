@@ -15,6 +15,11 @@
 - [🎨 Draw IO File](<Cooking App.drawio>) and [View it on google Drive](https://drive.google.com/file/d/1hFEY_kcCdUKH5Hj8J2mS8DR260-CKODJ/view?usp=sharing)
 - [👨‍🏫 Notion Example From Professor](https://concise-clownfish-137.notion.site/Beispiel-Projekt-Outbreak-Fitness-Tool-10337ff349ae8109943ac8a4466ba8d0)
 
+## TBD before submission
+
+- [ ] resize images to propper sizes
+- [ ] add captions to images
+
 ## Project to do
 
 - For every topic, find two products how they do it and then integrate it into our product
