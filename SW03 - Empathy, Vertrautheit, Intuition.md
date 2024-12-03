@@ -55,6 +55,7 @@ Apps can enhance user experience by building familiarity through intuitive desig
         
         ![IMG_2919.PNG](Images/sw03/sw03_7.png)
         
+## Tables with the scenario and proposal
 
 | Scenario-part | Finding / Description | Garret-L / Severity | Proposal  |
 | --- | --- | --- | --- |
