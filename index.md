@@ -20,6 +20,11 @@
 - [ ] resize images to propper sizes
 - [ ] add captions to images
 
+## Mep info
+
+- We have to give four topics which we want to have meassured, the other things are attestation
+- Everyone has to do writting
+
 ## Project to do
 
 - For every topic, find two products how they do it and then integrate it into our product
