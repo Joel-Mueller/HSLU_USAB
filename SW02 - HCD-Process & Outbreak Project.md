@@ -46,6 +46,7 @@ We skipped this one because we already have the idea
 
 ## 6 Test the prototype
 
-- Find a recipe and save it to your favourites
-- See what the upcoming events are in your area
-- Open a thread about a topic you are interested in
+- See what the upcoming events are in your area and see informations about it
+- Browse a recipe and cook one of them
+- Add a recipe to favorites and remove afterwards
+- Send feedback to the developers of the app
