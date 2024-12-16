@@ -43,7 +43,7 @@ We skipped this one because we already have the idea
 
 ## 5 Prototype a first UI-Flow
 
-<img src="Images/sw02/sw02_2.jpg" alt="IMG_7763.HEIC" style="width:50%; height:auto;">
+<img src="Images/sw02/sw02_2.jpg" alt="IMG_7763.HEIC" style="width:100%; height:auto;">
 
 
 ## 6 Test the prototype

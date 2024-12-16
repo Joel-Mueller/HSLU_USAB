@@ -23,27 +23,27 @@ Navigation is a crucial part to any system, including apps. A good navigation co
     
     The app has a switchable view, but the default and most practical is the monthly view that displays all events taking place as shown in Figure 4. It displays them chronologically for each day and is able to fit up to five events.
     
-    <img src="Images/sw04/sw04_9.jpg" alt="Figure 1: Collapsed hamburger menu in Calendars app" style="width:50%; height:auto;">
+    <img src="Images/sw04/sw04_9.jpg" alt="Figure 1: Collapsed hamburger menu in Calendars app" style="width:30%; height:auto;">
 
     
     Figure 1: Collapsed hamburger menu in Calendars app
     
-    <img src="Images/sw04/sw04_16.jpg" alt="Figure 2: Expanded hamburger menu in Calendars app" style="width:50%; height:auto;">
+    <img src="Images/sw04/sw04_16.jpg" alt="Figure 2: Expanded hamburger menu in Calendars app" style="width:30%; height:auto;">
 
     
     Figure 2: Expanded hamburger menu in Calendars app
     
-    <img src="Images/sw04/sw04_15.jpg" alt="Figure 3: Settings menu expanded in Calendar app" style="width:50%; height:auto;">
+    <img src="Images/sw04/sw04_15.jpg" alt="Figure 3: Settings menu expanded in Calendar app" style="width:30%; height:auto;">
 
     
     Figure 3: Settings menu expanded in Calendar app
     
-    <img src="Images/sw04/sw04_7.jpg" alt="Figure 4: Monthly view of Calendar app" style="width:50%; height:auto;">
+    <img src="Images/sw04/sw04_7.jpg" alt="Figure 4: Monthly view of Calendar app" style="width:30%; height:auto;">
 
     
     Figure 4: Monthly view of Calendar app
     
-    <img src="Images/sw04/sw04_10.jpg" alt="Figure 5: Tabbed view of Calendar app, which offers only a scrolling system between months." style="width:50%; height:auto;">
+    <img src="Images/sw04/sw04_10.jpg" alt="Figure 5: Tabbed view of Calendar app, which offers only a scrolling system between months." style="width:30%; height:auto;">
 
     
     Figure 5: Tabbed view of Calendar app, which offers only a scrolling system between months.
@@ -58,22 +58,22 @@ Navigation is a crucial part to any system, including apps. A good navigation co
     
     Similarly, the Profile tab looks very busy at a first glance and requires a thorough reading-through in order to understand where to press next to reach the correct setting change, unlike the Calendars app that has all the settings together in one place (Figure 9).
     
-    <img src="Images/sw04/sw04_14.jpg" alt="Figure 6: Plan tab of the SBB Mobile app" style="width:50%; height:auto;">
+    <img src="Images/sw04/sw04_14.jpg" alt="Figure 6: Plan tab of the SBB Mobile app" style="width:30%; height:auto;">
 
     
     Figure 6: Plan tab of the SBB Mobile app
     
-    <img src="Images/sw04/sw04_13.jpg" alt="Figure 7: Trips tab of the SBB Mobile app" style="width:50%; height:auto;">
+    <img src="Images/sw04/sw04_13.jpg" alt="Figure 7: Trips tab of the SBB Mobile app" style="width:30%; height:auto;">
 
     
     Figure 7: Trips tab of the SBB Mobile app
     
-    <img src="Images/sw04/sw04_8.jpg" alt="Figure 8: Shops & Services tab of the SBB Mobile app" style="width:50%; height:auto;">
+    <img src="Images/sw04/sw04_8.jpg" alt="Figure 8: Shops & Services tab of the SBB Mobile app" style="width:30%; height:auto;">
 
     
     Figure 8: Shops & Services tab of the SBB Mobile app
     
-    <img src="Images/sw04/sw04_12.jpg" alt="Figure 9: Profile tab of the SBB Mobile app" style="width:50%; height:auto;">
+    <img src="Images/sw04/sw04_12.jpg" alt="Figure 9: Profile tab of the SBB Mobile app" style="width:30%; height:auto;">
 
     
     Figure 9: Profile tab of the SBB Mobile app
