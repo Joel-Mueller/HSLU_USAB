@@ -113,7 +113,7 @@ In order to minimize accidental account deletions, MealBestie has thoughtfully l
 
 <img src="Images/sw06/sw06_6.png" alt="image.png" style="width:50%; height:auto;">
 
-### **Slip correction**
+### Slip correction
 
 To help users avoid accidental removal of saved items, the MealBestie introduces an “Undo” pop-up whenever a user unfavorites an item. This feature gives users a quick, convenient way to reverse the action, ensuring that they can easily correct slips without losing important saved content.
 
@@ -122,7 +122,7 @@ To help users avoid accidental removal of saved items, the MealBestie introduces
 <img src="Images/sw06/sw06_8.png" alt="image.png" style="width:50%; height:auto;">
 
 
-### **Mistake prevention**
+### Mistake prevention
 
 For added security, MealBestie now includes an extra confirmation step for account deletion. Users must enter their username to verify the action, providing a final check that guards against accidental deletions and ensures users are certain of their choice.
 
