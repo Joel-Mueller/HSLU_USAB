@@ -23,30 +23,25 @@ Navigation is a crucial part to any system, including apps. A good navigation co
     
     The app has a switchable view, but the default and most practical is the monthly view that displays all events taking place as shown in Figure 4. It displays them chronologically for each day and is able to fit up to five events.
     
-    <img src="Images/sw04/sw04_9.jpg" alt="Figure 1: Collapsed hamburger menu in Calendars app" style="width:30%; height:auto;">
+        <img src="Images/sw04/sw04_9.jpg" alt="Figure 1: Collapsed hamburger menu in Calendars app" style="width:30%; height:auto;">
 
-    
-    Figure 1: Collapsed hamburger menu in Calendars app
-    
-    <img src="Images/sw04/sw04_16.jpg" alt="Figure 2: Expanded hamburger menu in Calendars app" style="width:30%; height:auto;">
+        *Figure 1: Collapsed hamburger menu in Calendars app*
+        
+        <img src="Images/sw04/sw04_16.jpg" alt="Figure 2: Expanded hamburger menu in Calendars app" style="width:30%; height:auto;">
 
-    
-    Figure 2: Expanded hamburger menu in Calendars app
-    
-    <img src="Images/sw04/sw04_15.jpg" alt="Figure 3: Settings menu expanded in Calendar app" style="width:30%; height:auto;">
+        *Figure 2: Expanded hamburger menu in Calendars app*
+        
+        <img src="Images/sw04/sw04_15.jpg" alt="Figure 3: Settings menu expanded in Calendar app" style="width:30%; height:auto;">
 
-    
-    Figure 3: Settings menu expanded in Calendar app
-    
-    <img src="Images/sw04/sw04_7.jpg" alt="Figure 4: Monthly view of Calendar app" style="width:30%; height:auto;">
+        *Figure 3: Settings menu expanded in Calendar app*
+        
+        <img src="Images/sw04/sw04_7.jpg" alt="Figure 4: Monthly view of Calendar app" style="width:30%; height:auto;">
 
-    
-    Figure 4: Monthly view of Calendar app
-    
-    <img src="Images/sw04/sw04_10.jpg" alt="Figure 5: Tabbed view of Calendar app, which offers only a scrolling system between months." style="width:30%; height:auto;">
+        *Figure 4: Monthly view of Calendar app*
+        
+        <img src="Images/sw04/sw04_10.jpg" alt="Figure 5: Tabbed view of Calendar app, which offers only a scrolling system between months." style="width:30%; height:auto;">
 
-    
-    Figure 5: Tabbed view of Calendar app, which offers only a scrolling system between months.
+        *Figure 5: Tabbed view of Calendar app, which offers only a scrolling system between months.*
     
 - SBB Mobile
     
@@ -58,41 +53,30 @@ Navigation is a crucial part to any system, including apps. A good navigation co
     
     Similarly, the Profile tab looks very busy at a first glance and requires a thorough reading-through in order to understand where to press next to reach the correct setting change, unlike the Calendars app that has all the settings together in one place (Figure 9).
     
-    <img src="Images/sw04/sw04_14.jpg" alt="Figure 6: Plan tab of the SBB Mobile app" style="width:30%; height:auto;">
+        <img src="Images/sw04/sw04_14.jpg" alt="Figure 6: Plan tab of the SBB Mobile app" style="width:30%; height:auto;">
 
-    
-    Figure 6: Plan tab of the SBB Mobile app
-    
-    <img src="Images/sw04/sw04_13.jpg" alt="Figure 7: Trips tab of the SBB Mobile app" style="width:30%; height:auto;">
+        *Figure 6: Plan tab of the SBB Mobile app*
+        
+        <img src="Images/sw04/sw04_13.jpg" alt="Figure 7: Trips tab of the SBB Mobile app" style="width:30%; height:auto;">
 
-    
-    Figure 7: Trips tab of the SBB Mobile app
-    
-    <img src="Images/sw04/sw04_8.jpg" alt="Figure 8: Shops & Services tab of the SBB Mobile app" style="width:30%; height:auto;">
+        *Figure 7: Trips tab of the SBB Mobile app*
+        
+        <img src="Images/sw04/sw04_8.jpg" alt="Figure 8: Shops & Services tab of the SBB Mobile app" style="width:30%; height:auto;">
 
-    
-    Figure 8: Shops & Services tab of the SBB Mobile app
-    
-    <img src="Images/sw04/sw04_12.jpg" alt="Figure 9: Profile tab of the SBB Mobile app" style="width:30%; height:auto;">
+        *Figure 8: Shops & Services tab of the SBB Mobile app*
+        
+        <img src="Images/sw04/sw04_12.jpg" alt="Figure 9: Profile tab of the SBB Mobile app" style="width:30%; height:auto;">
 
-    
-    Figure 9: Profile tab of the SBB Mobile app
+        *Figure 9: Profile tab of the SBB Mobile app*
     
 
 | Scenario | Finding / Description | Garret-L / Severity | Proposal |
 | --- | --- | --- | --- |
-| Navigating the app spaces (Figure 2) | Annabella wants to find a quick recipe to cook but the hamburger menu is so extensive she doesn’t know where to start looking first. | Navigation
-/
+| Navigating the app spaces (Figure 2) | Annabella wants to find a quick recipe to cook but the hamburger menu is so extensive she doesn’t know where to start looking first. | Navigation /
 Crucial problem | Make a concise, minimalistic menu in the form of a tabbed view at the bottom of the app (Figure 6). |
-| Finding profile customisation (Figure 1) | The extensive hamburger menu is a lot to scroll through. Annabella gets overwhelmed but eventually finds the “Settings”. She wonders where the “Profile” button is. | Navigation
-/
-Minor problem | Name the profile customisation “Profile” and make a clearly seen profile icon in the top right corner of the app (Figure 9). |
-| Event view (Figure 4) | Annabella opens the “Events” tab. She is very curious and excited to look at it. She sees that it’s almost empty, with events barely happening once a month and is disappointed. | Navigation
-/
-Minor Problem | Make a list of the events happening in the future so there will not be a lot of blank space to take up the screen (Figure 7). |
-| Event scrolling (Figure 4) | Annabella wants to look at future markets that will happen in the spring; she’s curious to know if there will be more events when it becomes warmer but she has to scroll through a lot of months to get to the late spring season. | Navigation
-/
-Serious Problem | Make a shortcut in the “Events” tab that will allow the user to skip months or years ahead. |
+| Finding profile customisation (Figure 1) | The extensive hamburger menu is a lot to scroll through. Annabella gets overwhelmed but eventually finds the “Settings”. She wonders where the “Profile” button is. | Navigation / Minor problem | Name the profile customisation “Profile” and make a clearly seen profile icon in the top right corner of the app (Figure 9). |
+| Event view (Figure 4) | Annabella opens the “Events” tab. She is very curious and excited to look at it. She sees that it’s almost empty, with events barely happening once a month and is disappointed. | Navigation / Minor Problem | Make a list of the events happening in the future so there will not be a lot of blank space to take up the screen (Figure 7). |
+| Event scrolling (Figure 4) | Annabella wants to look at future markets that will happen in the spring; she’s curious to know if there will be more events when it becomes warmer but she has to scroll through a lot of months to get to the late spring season. | Navigation / Serious Problem | Make a shortcut in the “Events” tab that will allow the user to skip months or years ahead. |
 
 ## Implementation into MealBestie
 
