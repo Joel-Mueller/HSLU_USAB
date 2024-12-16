@@ -41,7 +41,8 @@ There are many navigation concepts that can be used and they all serve different
 
 **Horizontal Navigation**
 
-![Image source: Screenshot from post.ch](../Images/sw04/sw04_19.png)
+<img src="../Images/sw04/sw04_19.png" alt="Image source: Screenshot from post.ch" style="width:50%; height:auto;">
+
 
 Image source: Screenshot from post.ch
 
@@ -60,7 +61,8 @@ Cons:
 
 **Vertical navigation:**
 
-![Image source: Screenshot of this Notion’s side menu](../Images/sw04/sw04_2.png)
+<img src="../Images/sw04/sw04_2.png" alt="Image source: Screenshot of this Notion’s side menu" style="width:50%; height:auto;">
+
 
 Image source: Screenshot of this Notion’s side menu
 
@@ -77,7 +79,8 @@ Cons:
 
 **Dropdown Menu:**
 
-![Image source: Screenshot from post.ch](../Images/sw04/sw04_3.png)
+<img src="../Images/sw04/sw04_3.png" alt="Image source: Screenshot from post.ch" style="width:50%; height:auto;">
+
 
 Image source: Screenshot from post.ch
 
@@ -108,13 +111,15 @@ Cons:
 - Invisible at first sight
 - Always requires an action to be accessed (like clicking a button)
 
-![Image source: Screenshot from SW04 Navigation presentation](../Images/sw04/sw04_1.png)
+<img src="../Images/sw04/sw04_1.png" alt="Image source: Screenshot from SW04 Navigation presentation" style="width:50%; height:auto;">
+
 
 Image source: Screenshot from SW04 Navigation presentation
 
 **Breadcrumbs:**
 
-![image.png](../Images/sw04/sw04_5.png)
+<img src="../Images/sw04/sw04_5.png" alt="image.png" style="width:50%; height:auto;">
+
 
 Pros:
 
@@ -126,7 +131,8 @@ Pros:
 
 **Hamburger Menu:**
 
-![Image source: Screenshot from Gmail](../Images/sw04/sw04_17.jpg)
+<img src="../Images/sw04/sw04_17.jpg" alt="Image source: Screenshot from Gmail" style="width:50%; height:auto;">
+
 
 Image source: Screenshot from Gmail
 
@@ -142,7 +148,8 @@ Cons:
 
 **Nested Doll:**
 
-![Image source: Screenshot from SW04 Navigation presentation](../Images/sw04/sw04_11.png)
+<img src="../Images/sw04/sw04_11.png" alt="Image source: Screenshot from SW04 Navigation presentation" style="width:50%; height:auto;">
+
 
 Image source: Screenshot from SW04 Navigation presentation
 
@@ -156,7 +163,8 @@ Cons:
 
 **Tabbed View:**
 
-![Image source: Screenshot from SBB Mobile app](../Images/sw04/sw04_18.jpg)
+<img src="../Images/sw04/sw04_18.jpg" alt="Image source: Screenshot from SBB Mobile app" style="width:50%; height:auto;">
+
 
 Image source: Screenshot from SBB Mobile app
 

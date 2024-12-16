@@ -10,10 +10,8 @@
 
 - User: A student (in a technical degree) with a good digital affinity, who wants to learn how to cook but has a strict schedule with not a lot of free time and needs to approach cooking in an efficient way.
 
-<div style="text-align: center;">
-    <img src="Images/sw02/sw02_1.png" alt="Annabella" style="width:50%; height:auto;">
-    <p style="font-style: italic;">Figure 1: Annabella</p>
-</div>
+<img src="Images/sw02/sw02_1.png" alt="Annabella" style="width:50%; height:auto;">
+Figure 1: Annabella
 
 - Goals: I don‘t want a complicated recipe, I want to cook with in season products (cheaper, sustainable and tastier), I want to save time when I cook.
 - Tasks: Scroll, search for a recipe, gather ingredients, cook, favorite recipe (optional).
@@ -45,7 +43,8 @@ We skipped this one because we already have the idea
 
 ## 5 Prototype a first UI-Flow
 
-![IMG_7763.HEIC](Images/sw02/sw02_2.png)
+<img src="Images/sw02/sw02_2.jpg" alt="IMG_7763.HEIC" style="width:50%; height:auto;">
+
 
 ## 6 Test the prototype
 

@@ -15,13 +15,15 @@ Functional consistency in cooking apps (and any app, really) is essential to pro
 
 - Tasty: At the top of the screen once we have clicked on a recipe we can see the share button (which falls into external consistency as it is used widely) and besides this icon we see the bookmark which intuitively means to save something, the user already knows that by pressing the bookmark he is saving the recipe(based on context and experience). It is always at the top of the recipe. (See Figure 1)
 
-    ![Figure 1 : Tasty Bookmark function](Images/sw10/sw10_1.png)
+    <img src="Images/sw10/sw10_1.png" alt="Figure 1 : Tasty Bookmark function" style="width:50%; height:auto;">
+
         
     Figure 1 : Tasty Bookmark function
 
 - CookPad: On this app they maintain the bottom navigation bar throughout its interface (See Figure 2). Whether users are browsing recipes or looking at their saved recipes. This consistent placement and design allows users to seamlessly move between sections without re-orienting themselves. 
 
-    ![Figure 2 : CookPad Homepage](Images/sw10/sw10_2.png)
+    <img src="Images/sw10/sw10_2.png" alt="Figure 2 : CookPad Homepage" style="width:50%; height:auto;">
+
         
     Figure 2 : CookPad Homepage
 
@@ -31,17 +33,20 @@ Visual consistency ensures that the app looks cohesive and intuitive, creating a
 
 - Tasty: The Tasty app uses a bold and vibrant color palette throughout its interface. Blue is the primary brand color, appearing in headers, buttons and highlighted text. Complementary colors (like red and yellow) are used sparingly for emphasis, such as “Start Cooking” or error messages. This consistent use of color reinforces the app’s identity, making it instantly recognizable and helping users quickly identify key elements. Additionally, recipes are presented in cards with a standardized layout: the recipe title in bold text, a high-quality image of the recipe, followed by the ingredients and the preparation procedure.  (See Figure 3 & 4)
 
-    ![Figure 3 : Tasty recipe screen](Images/sw10/sw10_3.png)
+    <img src="Images/sw10/sw10_3.png" alt="Figure 3 : Tasty recipe screen" style="width:50%; height:auto;">
+
         
     Figure 3 : Tasty recipe screen
 
-    ![Figure 4 : Tasty recipe screen 2](Images/sw10/sw10_4.png)
+    <img src="Images/sw10/sw10_4.png" alt="Figure 4 : Tasty recipe screen 2" style="width:50%; height:auto;">
+
         
     Figure 4 : Tasty recipe screen 2
 
 - CookPad: The CookPad app has a similar but more basic color palette. The primary color is yellow, and the complementary color is orange for highlighted text and the adding button (See figure 5).
 
-    ![Figure 5 : CookPad color scheme](Images/sw10/sw10_5.png)
+    <img src="Images/sw10/sw10_5.png" alt="Figure 5 : CookPad color scheme" style="width:50%; height:auto;">
+
         
     Figure 5 : CookPad color scheme
 
@@ -51,7 +56,8 @@ Content consistency Is another critical aspect of usability in cooking apps. It 
 
 - Tasty: The Tasty app maintains a friendly, conversational tone throughout its content (See Figure 6), whether it’s in recipe descriptions or notifications. A consistent tone ensures that the app feels approachable and aligns with the casual, fun brand image that Tasty promotes.
 
-    ![Figure 6 : Tasty Recipe Description](Images/sw10/sw10_6.png)
+    <img src="Images/sw10/sw10_6.png" alt="Figure 6 : Tasty Recipe Description" style="width:50%; height:auto;">
+
         
     Figure 6 : Tasty Recipe Description
 
@@ -61,11 +67,13 @@ External consistency refers to ensuring that the app’s design, functionality, 
 
 - Tasty: On the Tasty app, users can swipe, tap, or scroll as they would in other apps, and navigation follows familiar patterns (tapping on a bookmark icon to save recipes, consistent with other apps like Instagram). There is also an integration with Real-World Conventions such as using cooking terms like “dice”, “sauté”, and “whisk” are familiar and universally understood by users. The same goes for the app CookPad.
 
-    ![Figure 7 : Tasty consistency with external cooking language](Images/sw10/sw10_7.png)
+    <img src="Images/sw10/sw10_7.png" alt="Figure 7 : Tasty consistency with external cooking language" style="width:50%; height:auto;">
+
         
     Figure 7 : Tasty consistency with external cooking language
 
-    ![Figure 8 : CookPad consistency with external cooking language](Images/sw10/sw10_8.png)
+    <img src="Images/sw10/sw10_8.png" alt="Figure 8 : CookPad consistency with external cooking language" style="width:50%; height:auto;">
+
         
     Figure 8 : CookPad consistency with external cooking language
 
@@ -82,24 +90,28 @@ External consistency refers to ensuring that the app’s design, functionality, 
 
 - **Functional Consistency**: For the MealBestie, we opted to implement the star icon for favouriting a recipe. This is a common icon in design and app interaction context which is intuitive for users and contributes to the aesthetic of the app. Additionally, the favourite icon will always appear at the top of the screen when the user opens any recipe to avoid a cognitive overload or user confusion. This way the user knows where to find that function without having to look for it. The homepage navigation bar will also include a star section where users can find their saved recipes this is also a nice intuitive feature to help the users connect these two sections/functions together.
 
-    ![Figure 9 : Meal bestie funcional consistency](Images/sw10/sw10_9.png)
+    <img src="Images/sw10/sw10_9.png" alt="Figure 9 : Meal bestie funcional consistency" style="width:50%; height:auto;">
+
 
     Figure 9 : Meal bestie funcional consistency
 
 - **Visual Consistency**: MealBestie’s color palette is warm pastel colors, the primary colors are soft pink and the dark yet subtle orange tone, the complementary color is light blue. This color scheme is meant to soothe the user while they use the app. We also implement adequate contrast for users with visual impairments.
 
-    ![Figure 10 : Meal bestie visual consistency](Images/sw10/sw10_10.png)
+    <img src="Images/sw10/sw10_10.png" alt="Figure 10 : Meal bestie visual consistency" style="width:50%; height:auto;">
+
 
     Figure 10 : Meal bestie visual consistency
 
 - **Content Consistency**: In MealBestie we want to be recognized by our friendly yet methodological demeanor as one can see on our recipe descriptions, we implement a friendly and descriptive language to express the main qualities of the meal the user is reading. Nonetheless, we keep a methodological and clear step-by-step procedure where we use more widely recognized cooking language.
 
-    ![Figure 11 : Meal bestie content consistency](Images/sw10/sw10_11.png)
+    <img src="Images/sw10/sw10_11.png" alt="Figure 11 : Meal bestie content consistency" style="width:50%; height:auto;">
+
 
     Figure 11 : Meal bestie content consistency
 
 - **External Consistency**: As mentioned in the content consistency, this feature falls into both types of consistency. First, as the app identity, we want it to be friendly but methodological and clear when it comes to the cooking. Secondly, it meets external consistency given that we integrated real world conventions such as using cooking terms like “dice”, “sauté”, and “whisk”, terms which are familiar and universally understood by users.
 
-    ![Figure 12 : Meal bestie external consistency](Images/sw10/sw10_12.png)
+    <img src="Images/sw10/sw10_12.png" alt="Figure 12 : Meal bestie external consistency" style="width:50%; height:auto;">
+
 
     Figure 12 : Meal bestie external consistency

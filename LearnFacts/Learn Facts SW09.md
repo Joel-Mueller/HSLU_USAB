@@ -52,7 +52,8 @@
 - information contrast
     - slide 35 → differentiating just by colour is more difficult to distinguish than differentiating by both colour and shape
         
-        ![sw09_1.png](../Images/sw09/sw09_1.png)
+        <img src="../Images/sw09/sw09_1.png" alt="sw09_1.png" style="width:50%; height:auto;">
+
         
         [https://www.notion.so](https://www.notion.so)
         

@@ -10,11 +10,13 @@ For the first attestation, we did a poster. Today, we improved the visual clarit
 
 **Poster before**
 
-![sw07_4.png](../Images/sw07/sw07_4.png)
+<img src="../Images/sw07/sw07_4.png" alt="sw07_4.png" style="width:50%; height:auto;">
+
 
 **Poster after**
 
-![image.png](../Images/sw07/sw07_2.png)
+<img src="../Images/sw07/sw07_2.png" alt="image.png" style="width:50%; height:auto;">
+
 
 ## What have we learned?
 
