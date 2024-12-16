@@ -11,12 +11,14 @@ For Annabella, microcopy like "Next Step" buttons, error messages explaining *wh
 
 ## Implementation in Apps
 
-### **Trello**: Intuitive Microcopy
+**Trello**: Intuitive Microcopy
 - Actionable buttons: "Create a Card", "Move to Board."
 
-<img src="Images/sw12/trello.png" alt="trello" style="width:50%; height:auto;">
+    <img src="Images/sw12/trello.png" alt="trello" style="width:50%; height:auto;">
 
-### **Duolingo**: Engaging and Motivational
+    *Figure 1: Actionable button in trello*
+
+**Duolingo**: Engaging and Motivational
 - Onboarding instructions: "Time to make learning a habit!"
 - Progress nudges: "5 minutes today keeps your streak alive."
 
@@ -30,14 +32,14 @@ For Annabella, microcopy like "Next Step" buttons, error messages explaining *wh
 
 ## Implemented in MealBestie
 
-- Send us feedback!
-
 <img src="Images/sw12/feedback.png" alt="feedback" style="width:50%; height:auto;">
 
-- Thanking after the user put a feedback
+*Figure 2: Send us feedback!*
 
 <img src="Images/sw12/thxfeedback.png" alt="feedback" style="width:50%; height:auto;">
 
-- Interact with the recipe!
+*Figure 3: Thanking after the user put a feedback*
 
 <img src="Images/sw12/interact.png" alt="interact" style="width:50%; height:auto;">
+
+*Figure 4: Interact with the recipe!*
