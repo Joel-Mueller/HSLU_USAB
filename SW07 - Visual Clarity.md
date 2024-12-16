@@ -19,9 +19,13 @@ For good visual clarity, an app should have a simple, uncluttered layout. This m
 
 - Simple Layout: The Layout in the app CookPad is held very simple. Everything seems intuitive and easy to use. The app is also very minimalistic and not cluttered with too much functions. One bad thing is, that there is no separate page for the cooking instruction. Everything is in the page shown in the image bellow and gets visible when you scroll down.
         
-    <img src="Images/sw07/sw07_16.jpeg" alt="Screenshot 2024-11-12 at 09.46.37.jpeg" style="width:50%; height:auto;">
+    <img src="Images/sw07/sw07_16.jpeg" alt="Screenshot 2024-11-12 at 09.46.37.jpeg" style="width:30%; height:auto;">
 
-    <img src="Images/sw07/sw07_18.jpeg" alt="Screenshot 2024-11-12 at 09.55.23.jpeg" style="width:50%; height:auto;">
+    *Figure 1: Cooking a recipe in CookPad 1*
+
+    <img src="Images/sw07/sw07_18.jpeg" alt="Screenshot 2024-11-12 at 09.55.23.jpeg" style="width:30%; height:auto;">
+
+    *Figure 2: Cooking a recipe in CookPad 2*
    
 - Consistent Layout: The app seems consistent through all pages, which is not hard to do in this layout because the layout is held very simple.
 
@@ -29,18 +33,28 @@ For good visual clarity, an app should have a simple, uncluttered layout. This m
 
 - Simple Layout: The layout of the Tasty is not as simple as CookPad, but there are also a lot more functionalities. Everything feels intuitive to use and everything feels on the right place. However, the app is also a little bit cluttered with advertisements for premium subscription. Annabella likes the section with the recipes more because she has also a step by step mode.
         
-    <img src="Images/sw07/sw07_19.jpeg" alt="Screenshot 2024-11-12 at 10.00.50.jpeg" style="width:50%; height:auto;">
+    <img src="Images/sw07/sw07_19.jpeg" alt="Screenshot 2024-11-12 at 10.00.50.jpeg" style="width:30%; height:auto;">
+
+    *Figure 3: Cooking a recipe in Tasty 1*
         
-    <img src="Images/sw07/sw07_9.jpeg" alt="Screenshot 2024-11-12 at 10.00.55-1.jpeg" style="width:50%; height:auto;">
+    <img src="Images/sw07/sw07_9.jpeg" alt="Screenshot 2024-11-12 at 10.00.55-1.jpeg" style="width:30%; height:auto;">
+
+    *Figure 4: Cooking a recipe in Tasty 2*
         
-    <img src="Images/sw07/sw07_8.jpeg" alt="Screenshot 2024-11-12 at 10.00.58-2.jpeg" style="width:50%; height:auto;">
+    <img src="Images/sw07/sw07_8.jpeg" alt="Screenshot 2024-11-12 at 10.00.58-2.jpeg" style="width:30%; height:auto;">
+
+    *Figure 5: Cooking a recipe in Tasty 3*
 
         
 - Consistent Layout: The layout through the app is not so consistent. On the first screenshot, you see recipes with round corners and two next to each other. In the community section, the layout is more built like a social media feed. But both are just for finding recipes, so it would be better to merge both pages into one.
         
-    <img src="Images/sw07/sw07_20.jpeg" alt="Screenshot 2024-11-13 at 11.47.18.jpeg" style="width:50%; height:auto;">
+    <img src="Images/sw07/sw07_20.jpeg" alt="Screenshot 2024-11-13 at 11.47.18.jpeg" style="width:30%; height:auto;">
+
+    *Figure 6: Recipe discover page 1 in Tasty*
         
-    <img src="Images/sw07/sw07_17.jpeg" alt="Screenshot 2024-11-13 at 11.47.20-1.jpeg" style="width:50%; height:auto;">    
+    <img src="Images/sw07/sw07_17.jpeg" alt="Screenshot 2024-11-13 at 11.47.20-1.jpeg" style="width:30%; height:auto;">
+
+    *Figure 7: Recipe discover page 2 in Tasty*  
 
 ### Visual Accessibility
 
@@ -50,26 +64,38 @@ A good app should have well designed icons in it. They should be clear, intuitiv
 
 - Icons: CookPad does not have a lot of icons, but the ones the application uses are clear. However, the "Your Collection" icon could be a lot simpler than it is. But all in all it is okay.
         
-    <img src="Images/sw07/sw07_5.png" alt="Images/sw07/sw07_5.png" style="width:50%; height:auto;">
+    <img src="Images/sw07/sw07_5.png" alt="Images/sw07/sw07_5.png" style="width:30%; height:auto;">
+
+    *Figure 8: Navigation Bar Icons in CookPad*
 
 - Contrasty colours, adjustable font size and dark theme: Contrast and color are almost okay. While it looks nice, the icons on an image are sometimes hard to see depending on the recipe. As a result, Annabella doesn't always know where to press to save an image. The app supports dark theme and when the font size of the phone changes, the app changes it too.
         
-    <img src="Images/sw07/sw07_1.png" alt="image.png" style="width:50%; height:auto;">
-  
+    <img src="Images/sw07/sw07_1.png" alt="image.png" style="width:60%; height:auto;">
+    
+    *Figure 9: Not so contrasty colours in CookPad*
+
 #### Tasty
 
 - Icons: Like in Cookpad, the icons in Tasty are held very simple. It is clear what every icon does and they also change, when an icon ist selected. For example the magnifier lens is filled out and the cooking pod has something in it.
         
     <img src="Images/sw07/sw07_11.png" alt="image.png" style="width:50%; height:auto;">
 
+    *Figure 10: Navigation Bar in Tasty 1*
+
     <img src="Images/sw07/sw07_10.png" alt="image.png" style="width:50%; height:auto;">
+
+    *Figure 11: Navigation Bar in Tasty 2*
 
         
 - Contrasty colours, adjustable font size and dark theme: The constrast of the colour are almost okay. Sometimes the app uses a very light grey to show stuff, which is for Annabella sometimes hard to see. Like CookPad, the app supports dark theme and when the font size of the phone changes, the app changes it too.
         
     <img src="Images/sw07/sw07_12.png" alt="image.png" style="width:50%; height:auto;">
 
-    <img src="Images/sw07/sw07_13.png" alt="image.png" style="width:50%; height:auto;">
+    *Figure 12: Bad colour contrast example tasty 1*
+
+    <img src="Images/sw07/sw07_13.png" alt="image.png" style="width:40%; height:auto;">
+
+    *Figure 13: Bad colour contrast example tasty 2*
 
 ### Summary
 
@@ -86,32 +112,34 @@ A good app should have well designed icons in it. They should be clear, intuitiv
 
 - Simple Layout: MealBestie has a simple layout through the whole app. The app doen’t feel cluttered with advertisements, unnecessery pop ups and or unused functions. The app also has a separate screen for cooking instructions, which makes cooking so much easier.
 
-<img src="Images/sw07/sw07_14.png" alt="image.png" style="width:50%; height:auto;">
+<img src="Images/sw07/sw07_14.png" alt="image.png" style="width:30%; height:auto;">
 
+*Figure 14: Separate screen for cooking instructions in Meal Bestie*
 
 - Consistent Layout: The layout of MealBestie is simple and consistent through the whole app. For example, the layout, the colours and Fonts are same in the event section and where her favourite recipes are saved. Annabella can navigate very easily and doesn’t feel lost in the app because everything is consistent and familiar.
 
-<img src="Images/sw07/sw07_15.png" alt="image.png" style="width:50%; height:auto;">
+<img src="Images/sw07/sw07_15.png" alt="image.png" style="width:70%; height:auto;">
 
+*Figure 15: Layout consistency in MealBestie*
 
 ### Visual Accessibility
 
 - Icons: The icons in MealBesties are simple and consistent through the whole app. When Annabella clicks one icon, the app does what she expects. Icons are used in several spots within the app.
 
-<img src="Images/sw07/sw07_16.png" alt="image.png" style="width:50%; height:auto;">
+    <img src="Images/sw07/sw07_16.png" alt="image.png" style="width:50%; height:auto;">
 
+    *Figure 16: Icons in MealBestie*
 
-<img src="Images/sw07/sw07_3.png" alt="image.png" style="width:50%; height:auto;">
+    <img src="Images/sw07/sw07_3.png" alt="image.png" style="width:50%; height:auto;">
 
+    *Figure 17: New Navigation Bar in Meal Bestie*
 
 - Contrasty colours, adjustable font size and dark theme: The contrast of the app has been improved by the developers of MealBestie. In the first picture, the prototype had a dark gray background and black text. Annabella could barely see it. Now the creators of the app changed it to a lighter gray and black font. They also added icons to make it easier to see.
 
-<img src="Images/sw07/sw07_7.png" alt="Contrast before" style="width:50%; height:auto;">
+    <img src="Images/sw07/sw07_7.png" alt="Contrast before" style="width:50%; height:auto;">
 
+    *Figure 18: Contrast of search bar in Mealbestie before Visual Clarity Lesseon*
 
-Contrast before
+    <img src="Images/sw07/sw07_6.png" alt="Contrast after" style="width:50%; height:auto;">
 
-<img src="Images/sw07/sw07_6.png" alt="Contrast after" style="width:50%; height:auto;">
-
-
-Contrast after
+    *Figure 19: Contrast of search bar in Mealbestie after Visual Clarity Lesseon*

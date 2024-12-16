@@ -83,8 +83,7 @@ MealBestie does not have a big menu that needs to be collapsed in order to be na
 
 <img src="Images/sw04/sw04_20.png" alt="Figure 10: Tabbed view menu at the bottom of the MealBestie app for quick multitasking" style="width:50%; height:auto;">
 
-
-Figure 10: Tabbed view menu at the bottom of the MealBestie app for quick multitasking
+*Figure 10: Tabbed view menu at the bottom of the MealBestie app for quick multitasking*
 
 Because not every day will have a farmer’s market event, it does not make sense to have a monthly view like in the Calendars app (Figure 4), but rather a view like in Figure 6, of the events, the dates they’re taking place on and the location. A dropdown arrow should be added beside the “Events” title to open a dropdown calendar to allow quick switching between far away months without a lot of scrolling.
 
@@ -92,5 +91,4 @@ Clicking on an event will open it out on the next screen which will provide more
 
 <img src="Images/sw04/sw04_6.png" alt="Figure 11: Events Calendar on MealBestie" style="width:50%; height:auto;">
 
-
-Figure 11: Events Calendar on MealBestie
+*Figure 11: Events Calendar on MealBestie*

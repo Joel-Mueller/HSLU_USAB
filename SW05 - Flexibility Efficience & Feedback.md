@@ -106,9 +106,13 @@ This approach to feedback is problematic. Users are restricted and can't communi
 
     <img src="Images/sw05/sw05_12.png" alt="Screenshot 2024-10-22 233349.png" style="width:50%; height:auto;">
 
+    *Figure 12: User Prefferences in MealBestie*
+
 - Ingredient Substitution: Recipes should be catered to the users according to their food restrictions and inside their users preferences. Nonetheless, if the user forgot about something and came across an ingredient they disliked in a recipe, there will be a “…” next to the ingredients on the list which will let the user know if they can exclude the ingredient for the recipe or if the ingredient cannot be excluded then it will offer replacement recommendations.
 
     <img src="Images/sw05/sw05_5.png" alt="Screenshot 2024-10-22 232707.png" style="width:50%; height:auto;">
+
+    *Figure 13: Ingredient Substitution in MealBestie*
 
 ### Feedback in MealBestie
 
@@ -116,6 +120,10 @@ This approach to feedback is problematic. Users are restricted and can't communi
 
     <img src="Images/sw05/sw05_13.png" alt="Screenshot 2024-10-23 000033.png" style="width:50%; height:auto;">
 
+    *Figure 14: Feedback for ingredient substitution in MealBestie*
+
 - App Feedback: After a successful cooking session, Annabelle wants to provide her feedback on the efficiency of the app so she goes to the profile menu/screen and taps the “Send us Feedback” tab to write her thoughts and recommendations for improvement, after pressing send, her screen displays a message pop up message, letting her know that her feedback was received.
 
     <img src="Images/sw05/sw05_16.png" alt="Screenshot 2024-10-23 at 11.20.03.png" style="width:50%; height:auto;">
+
+    *Figure 15: App feedback for MealBestie*
