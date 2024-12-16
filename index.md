@@ -1,11 +1,11 @@
 # Usability - Team 4
 
 - [💭 SW02 - HCD-Process & Outbreak Project](SW02%20-%20HCD-Process%20&%20Outbreak%20Project.md)
-- [🫶 SW03 - Empathy, Vertrautheit, Intuition](SW03%20-%20Empathy,%20Vertrautheit,%20Intuition.md)
-- [⛵️ SW04 - Navigation](SW04%20-%20Navigation.md)
-- [💪 SW05 - Flexibility/Efficience & Feedback](SW05%20-%20Flexibility%20Efficience%20&%20Feedback.md)
+- [🫶 SW03 - Empathy, Vertrautheit, Intuition](SW03%20-%20Empathy,%20Vertrautheit,%20Intuition.md) (evaluate)
+- [⛵️ SW04 - Navigation](SW04%20-%20Navigation.md) (evaluate)
+- [💪 SW05 - Flexibility/Efficience & Feedback](SW05%20-%20Flexibility%20Efficience%20&%20Feedback.md) (evaluate)
 - [🚨 SW06 - Errors & Errors-Mgmt](SW06%20-%20Errors%20&%20Errors-Mgmt.md)
-- [🔎 SW07 - Visual Clarity](SW07%20-%20Visual%20Clarity.md)
+- [🔎 SW07 - Visual Clarity](SW07%20-%20Visual%20Clarity.md) (evaluate)
 - [🦽 SW09 - Accessibility](SW09%20-%20Accessibility.md)
 - [🕦 SW10 - Consistency](SW10%20-%20Consistency.md)
 - [📝 SW12 - UX Writing](SW12%20-%20UX%20Writing.md)
