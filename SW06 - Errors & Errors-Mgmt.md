@@ -22,11 +22,11 @@ Apps and websites should make it easy for the user to understand what’s import
     
 Github makes it difficult for the user to accidentally change a critical parameter of one’s repository. In order to be able to change its visibility, disable branch protection rules, transfer it, archive it or delete it (more on that one later), the user is forced to go to the last options on the menu, “Settings”, and then scroll to the very bottom of the page, where a big red “Danger Zone” section clearly emphasizes the importance of all those functions.
     
-<img src="Images/sw06/sw06_15.png" alt="Figure 1: Github settings page" style="width:100%; height:auto;">
+<img src="Images/sw06/sw06_15.png" alt="Figure 1: Github settings page" style="width:80%; height:auto;">
 
 *Figure 1: Github settings page*
     
-<img src="Images/sw06/sw06_1.png" alt="Figure 2: Github danger zone" style="width:100%; height:auto;">
+<img src="Images/sw06/sw06_1.png" alt="Figure 2: Github danger zone" style="width:70%; height:auto;">
 
 *Figure 2: Github danger zone*
     
@@ -53,7 +53,7 @@ Github’s “Undo” feature is a thoughtful touch that helps users quickly rec
     
 A file/folder which has been deleted, or moved to the trash, remains there for 30 days, during which users can restore them with a single click. This mechanism helps users quickly recover from accidental deletions, correcting slips with minimal impact. As an added bonus, when deleting the file or folder, an “Undo” button pops up on the bottom-left corner. 
     
-<img src="Images/sw06/sw06_11.png" alt="Figure 5: Google Drive “Move to bin” button" style="width:50%; height:auto;">
+<img src="Images/sw06/sw06_11.png" alt="Figure 5: Google Drive “Move to bin” button" style="width:30%; height:auto;">
 
 *Figure 5: Google Drive “Move to bin” button*
     

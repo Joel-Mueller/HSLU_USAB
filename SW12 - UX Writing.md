@@ -14,7 +14,7 @@ For Annabella, microcopy like "Next Step" buttons, error messages explaining *wh
 **Trello**: Intuitive Microcopy
 - Actionable buttons: "Create a Card", "Move to Board."
 
-    <img src="Images/sw12/trello.png" alt="trello" style="width:50%; height:auto;">
+    <img src="Images/sw12/trello.png" alt="trello" style="width:30%; height:auto;">
 
     *Figure 1: Actionable button in trello*
 
@@ -32,14 +32,14 @@ For Annabella, microcopy like "Next Step" buttons, error messages explaining *wh
 
 ## Implemented in MealBestie
 
-<img src="Images/sw12/feedback.png" alt="feedback" style="width:50%; height:auto;">
+<img src="Images/sw12/feedback.png" alt="feedback" style="width:25%; height:auto;">
 
 *Figure 2: Send us feedback!*
 
-<img src="Images/sw12/thxfeedback.png" alt="feedback" style="width:50%; height:auto;">
+<img src="Images/sw12/thxfeedback.png" alt="feedback" style="width:25%; height:auto;">
 
 *Figure 3: Thanking after the user put a feedback*
 
-<img src="Images/sw12/interact.png" alt="interact" style="width:50%; height:auto;">
+<img src="Images/sw12/interact.png" alt="interact" style="width:25%; height:auto;">
 
 *Figure 4: Interact with the recipe!*

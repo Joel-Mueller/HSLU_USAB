@@ -99,18 +99,18 @@ On the Tasty app, users can swipe, tap, or scroll as they would in other apps, a
 
 - **Visual Consistency**: MealBestie’s color palette is warm pastel colors, the primary colors are soft pink and the dark yet subtle orange tone, the complementary color is light blue. This color scheme is meant to soothe the user while they use the app. We also implement adequate contrast for users with visual impairments.
 
-    <img src="Images/sw10/sw10_10.png" alt="Figure 10 : Meal bestie visual consistency" style="width:50%; height:auto;">
+    <img src="Images/sw10/sw10_10.png" alt="Figure 10 : Meal bestie visual consistency" style="width:25%; height:auto;">
 
     *Figure 10 : Meal bestie visual consistency*
 
 - **Content Consistency**: In MealBestie we want to be recognized by our friendly yet methodological demeanor as one can see on our recipe descriptions, we implement a friendly and descriptive language to express the main qualities of the meal the user is reading. Nonetheless, we keep a methodological and clear step-by-step procedure where we use more widely recognized cooking language.
 
-    <img src="Images/sw10/sw10_11.png" alt="Figure 11 : Meal bestie content consistency" style="width:50%; height:auto;">
+    <img src="Images/sw10/sw10_11.png" alt="Figure 11 : Meal bestie content consistency" style="width:25%; height:auto;">
 
     *Figure 11 : Meal bestie content consistency*
 
 - **External Consistency**: As mentioned in the content consistency, this feature falls into both types of consistency. First, as the app identity, we want it to be friendly but methodological and clear when it comes to the cooking. Secondly, it meets external consistency given that we integrated real world conventions such as using cooking terms like “dice”, “sauté”, and “whisk”, terms which are familiar and universally understood by users.
 
-    <img src="Images/sw10/sw10_12.png" alt="Figure 12 : Meal bestie external consistency" style="width:50%; height:auto;">
+    <img src="Images/sw10/sw10_12.png" alt="Figure 12 : Meal bestie external consistency" style="width:25%; height:auto;">
 
     *Figure 12 : Meal bestie external consistency*

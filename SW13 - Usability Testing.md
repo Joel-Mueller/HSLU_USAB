@@ -34,7 +34,7 @@ Our usabilty expert and figma designer Ana Pretelt excecuted the usabilty test f
 
 You are a working student, you come home tired and hungry, and you only have pasta and a few veggies. Find a recipe that matches what you think you have and start the preparation process on the app.
 
-<img src="Images/sw13/sw13_1.jpeg" alt="image.png" style="width:20%; height:auto;">
+<img src="Images/sw13/sw13_1.jpeg" alt="image.png" style="width:35%; height:auto;">
 
 *Figure 1: Axel Ivorra is testing MealBestie*
 
@@ -60,7 +60,7 @@ You are a working student, you come home tired and hungry, and you only have pas
 
 You are a working student, you come home tired and hungry, and you only have pasta and a few veggies. Find a recipe that matches what you think you have and start the preparation process on the app.
 
-<img src="Images/sw13/sw13_2.jpeg" alt="image.png" style="width:20%; height:auto;">
+<img src="Images/sw13/sw13_2.jpeg" alt="image.png" style="width:35%; height:auto;">
 
 *Figure 2: Leo Koch is testing MealBestie*
 
