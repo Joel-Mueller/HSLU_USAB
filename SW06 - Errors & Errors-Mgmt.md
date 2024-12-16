@@ -13,101 +13,89 @@ For the more crucial steps, confirmation prompts give her a moment to double-che
 
 ## Comparing Other Apps
 
-### **Slip prevention**
+### Slip prevention
 
 Apps and websites should make it easy for the user to understand what’s important and what’s not. When a user understands that this button might modify/delete his data for instance, he will be more careful and focused.
 
-- Github
+#### Github
     
-    Github makes it difficult for the user to accidentally change a critical parameter of one’s repository. In order to be able to change its visibility, disable branch protection rules, transfer it, archive it or delete it (more on that one later), the user is forced to go to the last options on the menu, “Settings”, and then scroll to the very bottom of the page, where a big red “Danger Zone” section clearly emphasizes the importance of all those functions.
+Github makes it difficult for the user to accidentally change a critical parameter of one’s repository. In order to be able to change its visibility, disable branch protection rules, transfer it, archive it or delete it (more on that one later), the user is forced to go to the last options on the menu, “Settings”, and then scroll to the very bottom of the page, where a big red “Danger Zone” section clearly emphasizes the importance of all those functions.
     
-    <img src="Images/sw06/sw06_15.png" alt="Fig. 1: Github settings page" style="width:50%; height:auto;">
+<img src="Images/sw06/sw06_15.png" alt="Fig. 1: Github settings page" style="width:50%; height:auto;">
 
+*Fig. 1: Github settings page*
     
-    Fig. 1: Github settings page
-    
-    <img src="Images/sw06/sw06_1.png" alt="Fig. 2: Github danger zone" style="width:50%; height:auto;">
+<img src="Images/sw06/sw06_1.png" alt="Fig. 2: Github danger zone" style="width:50%; height:auto;">
 
+*Fig. 2: Github danger zone*
     
-    Fig. 2: Github danger zone
+#### Google Drive
     
-- Google Drive
+On Google Drive, if a user accidentally deletes a file or folder, it isn’t permanently removed but instead moved to the trash. If a user wants to delete it from the trash/completely, Google Drive displays a confirmation dialog box. This extra steps help prevent accidental deletions from mis-clicks or inattention, reducing the chance of unintentional errors.
     
-    On Google Drive, if a user accidentally deletes a file or folder, it isn’t permanently removed but instead moved to the trash. If a user wants to delete it from the trash/completely, Google Drive displays a confirmation dialog box. This extra steps help prevent accidental deletions from mis-clicks or inattention, reducing the chance of unintentional errors.
-    
-    <img src="Images/sw06/sw06_2.png" alt="Fig. 3: Google Drive delete forever" style="width:50%; height:auto;">
+<img src="Images/sw06/sw06_2.png" alt="Fig. 3: Google Drive delete forever" style="width:50%; height:auto;">
 
-    
-    Fig. 3: Google Drive delete forever
+*Fig. 3: Google Drive delete forever*
     
 
-### **Slip correction**
+### Slip correction
 
-- Github
+#### Github
     
-    Github’s “Undo” feature is a thoughtful touch that helps users quickly recover from unintended actions. When a branch is deleted or an issue is closed, a handy “Undo” button pops up for a few seconds, offering an easy, immediate way to reverse the action. This is especially useful for those accidental clicks or moments of inattention, making it a simple safeguard against slips. By doing this, Github enhances both user experience and confidence, making the platform more forgiving and user-friendly.
+Github’s “Undo” feature is a thoughtful touch that helps users quickly recover from unintended actions. When a branch is deleted or an issue is closed, a handy “Undo” button pops up for a few seconds, offering an easy, immediate way to reverse the action. This is especially useful for those accidental clicks or moments of inattention, making it a simple safeguard against slips. By doing this, Github enhances both user experience and confidence, making the platform more forgiving and user-friendly.
     
-    <img src="Images/sw06/sw06_10.png" alt="Fig. 4: Github “Undo” action" style="width:50%; height:auto;">
+<img src="Images/sw06/sw06_10.png" alt="Fig. 4: Github “Undo” action" style="width:50%; height:auto;">
 
+*Fig. 4: Github “Undo” action*
     
-    Fig. 4: Github “Undo” action
+#### Google Drive
     
-- Google Drive
+A file/folder which has been deleted, or moved to the trash, remains there for 30 days, during which users can restore them with a single click. This mechanism helps users quickly recover from accidental deletions, correcting slips with minimal impact. As an added bonus, when deleting the file or folder, an “Undo” button pops up on the bottom-left corner. 
     
-    A file/folder which has been deleted, or moved to the trash, remains there for 30 days, during which users can restore them with a single click. This mechanism helps users quickly recover from accidental deletions, correcting slips with minimal impact. As an added bonus, when deleting the file or folder, an “Undo” button pops up on the bottom-left corner. 
-    
-    <img src="Images/sw06/sw06_11.png" alt="Fig. 5: Google Drive “Move to bin” button" style="width:50%; height:auto;">
+<img src="Images/sw06/sw06_11.png" alt="Fig. 5: Google Drive “Move to bin” button" style="width:50%; height:auto;">
 
+*Fig. 5: Google Drive “Move to bin” button*
     
-    Fig. 5: Google Drive “Move to bin” button
-    
-    <img src="Images/sw06/sw06_12.png" alt="Fig. 6: Google Drive “Undo” pop-up" style="width:50%; height:auto;">
+<img src="Images/sw06/sw06_12.png" alt="Fig. 6: Google Drive “Undo” pop-up" style="width:50%; height:auto;">
 
-    
-    Fig. 6: Google Drive “Undo” pop-up
+*Fig. 6: Google Drive “Undo” pop-up*
     
 
-### **Mistake prevention**
+### Mistake prevention
 
-- Github
+#### Github
     
-    Github is once again a very good example of good mistake prevention design. When a user wants to delete a repository, Github does not show one, nor two, but THREE pop-ups to make sure that the user understand the whole effect and scope of the deletion.
+Github is once again a very good example of good mistake prevention design. When a user wants to delete a repository, Github does not show one, nor two, but THREE pop-ups to make sure that the user understand the whole effect and scope of the deletion.
     
-    First, it shows a pretty normal-looking pop-up.  
+First, it shows a pretty normal-looking pop-up.  
     
-    <img src="Images/sw06/sw06_13.png" alt="Fig. 7: Github Delete repo step 1" style="width:50%; height:auto;">
+<img src="Images/sw06/sw06_13.png" alt="Fig. 7: Github Delete repo step 1" style="width:50%; height:auto;">
 
+*Fig. 7: Github Delete repo step 1*
     
-    Fig. 7: Github Delete repo step 1
+Then, when clicking on the button, a second pop-up comes up with more information about what’s going to happen.
     
-    Then, when clicking on the button, a second pop-up comes up with more information about what’s going to happen.
-    
-    <img src="Images/sw06/sw06_9.png" alt="Fig. 8: Github Delete repo step 2" style="width:50%; height:auto;">
+<img src="Images/sw06/sw06_9.png" alt="Fig. 8: Github Delete repo step 2" style="width:50%; height:auto;">
 
+*Fig. 8: Github Delete repo step 2*
     
-    Fig. 8: Github Delete repo step 2
+Then, a third one shows up, where the user has to complete a task, which is to type the username slash repository name, before being able to proceed, clicking on the final, red delete button, action which cannot be undone.
     
-    Then, a third one shows up, where the user has to complete a task, which is to type the username slash repository name, before being able to proceed, clicking on the final, red delete button, action which cannot be undone.
-    
-    <img src="Images/sw06/sw06_14.png" alt="Fig. 9: Github Delete repo step 3" style="width:50%; height:auto;">
+<img src="Images/sw06/sw06_14.png" alt="Fig. 9: Github Delete repo step 3" style="width:50%; height:auto;">
 
+*Fig. 9: Github Delete repo step 3*
     
-    Fig. 9: Github Delete repo step 3
-    
-    <img src="Images/sw06/sw06_3.png" alt="Fig. 10: Github Delete repo end" style="width:50%; height:auto;">
+<img src="Images/sw06/sw06_3.png" alt="Fig. 10: Github Delete repo end" style="width:50%; height:auto;">
 
+*Fig. 10: Github Delete repo end*
     
-    Fig. 10: Github Delete repo end
+#### Google Drive
     
-- Google Drive
+Google Drive allows users to set specific sharing permissions (View, Comment, Edit) when sharing files. This prevents users from mistakenly granting inappropriate access levels, which could lead to unwanted edits or data exposure. By making users choose specific permissions, Google Drive aligns with the user's intention, preventing mistakes based on misinterpretations or misunderstandings about access.
     
-    Google Drive allows users to set specific sharing permissions (View, Comment, Edit) when sharing files. This prevents users from mistakenly granting inappropriate access levels, which could lead to unwanted edits or data exposure. By making users choose specific permissions, Google Drive aligns with the user's intention, preventing mistakes based on misinterpretations or misunderstandings about access.
-    
-    <img src="Images/sw06/sw06_4.png" alt="Fig. 11: Google Drive share preferences" style="width:50%; height:auto;">
+<img src="Images/sw06/sw06_4.png" alt="Fig. 11: Google Drive share preferences" style="width:50%; height:auto;">
 
-    
-    Fig. 11: Google Drive share preferences
-    
+*Fig. 11: Google Drive share preferences*
 
 | Scenario | Finding / Description | Garret-L / Severity | Proposal |
 | --- | --- | --- | --- |
@@ -117,22 +105,19 @@ Apps and websites should make it easy for the user to understand what’s import
 
 ## Implementation of Ideas in MealBestie
 
-### **Slip prevention**
+### Slip prevention
 
 In order to minimize accidental account deletions, MealBestie has thoughtfully located the “Delete Account” button to a more discreet position at the bottom of the preferences page. By placing this button in a less accessible area and away from high-traffic locations, users are made more aware of the action’s significance, reducing unintended clicks.
 
 <img src="Images/sw06/sw06_5.png" alt="image.png" style="width:50%; height:auto;">
 
-
 <img src="Images/sw06/sw06_6.png" alt="image.png" style="width:50%; height:auto;">
-
 
 ### **Slip correction**
 
 To help users avoid accidental removal of saved items, the MealBestie introduces an “Undo” pop-up whenever a user unfavorites an item. This feature gives users a quick, convenient way to reverse the action, ensuring that they can easily correct slips without losing important saved content.
 
 <img src="Images/sw06/sw06_7.png" alt="image.png" style="width:50%; height:auto;">
-
 
 <img src="Images/sw06/sw06_8.png" alt="image.png" style="width:50%; height:auto;">
 
@@ -143,8 +128,6 @@ For added security, MealBestie now includes an extra confirmation step for accou
 
 <img src="Images/sw06/sw06_18.png" alt="image.png" style="width:50%; height:auto;">
 
-
 <img src="Images/sw06/sw06_17.png" alt="image.png" style="width:50%; height:auto;">
-
 
 <img src="Images/sw06/sw06_16.png" alt="image.png" style="width:50%; height:auto;">
