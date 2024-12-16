@@ -65,17 +65,17 @@ Apps can significantly enhance user experience by integrating comprehensive feed
     
     CookPad offers a user-friendly feedback system accessible directly from the menu screen. Users can easily find the intuitive "Send feedback" tab, where they can write and submit their comments (See figures 8 & 9). The app also provides a mechanism for reporting other users' content. When viewing a user's post (recipe), there's an option to report inappropriate content. However, this action automatically blocks the reported user on your account, sending the report to the app simultaneously (See figure 10).
     
-    <img src="Images/sw05/sw05_4.png" alt="Figure 8: CookPad Menu View" style="width:50%; height:auto;">
-    
-    *Figure 8: CookPad Menu View*
-    
-    <img src="Images/sw05/sw05_2.png" alt="Figure 9 : CookPad “Send Feedback” Screen" style="width:50%; height:auto;">
-    
-    *Figure 9 : CookPad “Send Feedback” Screen*
-    
-    <img src="Images/sw05/sw05_1.png" alt="Figure 10 : Screen when reporting & blocking a user - CookPad App" style="width:50%; height:auto;">
-    
-    *Figure 10 : Screen when reporting & blocking a user - CookPad App*
+        <img src="Images/sw05/sw05_4.png" alt="Figure 8: CookPad Menu View" style="width:50%; height:auto;">
+        
+        *Figure 8: CookPad Menu View*
+        
+        <img src="Images/sw05/sw05_2.png" alt="Figure 9 : CookPad “Send Feedback” Screen" style="width:50%; height:auto;">
+        
+        *Figure 9 : CookPad “Send Feedback” Screen*
+        
+        <img src="Images/sw05/sw05_1.png" alt="Figure 10 : Screen when reporting & blocking a user - CookPad App" style="width:50%; height:auto;">
+        
+        *Figure 10 : Screen when reporting & blocking a user - CookPad App*
     
 - Tasty
     
@@ -85,9 +85,9 @@ Apps can significantly enhance user experience by integrating comprehensive feed
     
     This approach to feedback is problematic. Users are restricted and can't communicate directly through the app, potentially leading to frustration. A well-designed app would offer more feedback options or provide clear instructions to resolve any configuration issues.
     
-    <img src="Images/sw05/sw05_3.png" alt="Figure 11 : Feedback screen displaying error - Tasty App" style="width:50%; height:auto;">
+        <img src="Images/sw05/sw05_3.png" alt="Figure 11 : Feedback screen displaying error - Tasty App" style="width:50%; height:auto;">
 
-    *Figure 11 : Feedback screen displaying error - Tasty App*
+        *Figure 11 : Feedback screen displaying error - Tasty App*
     
 
 | Scenario-part | Finding / Description | Garret-L / Severity | Proposal  |
@@ -103,18 +103,18 @@ Apps can significantly enhance user experience by integrating comprehensive feed
 
 - User Preferences: The user can make changes on their preferences  through the user preferences tab in the profile menu/screen. This user preferences tab allows the user to input/edit their food restrictions, allergies, preffered measurement units, and language.  Allowing for ultimate flexibility and an efficient catering of the users’ needs.
 
-<img src="Images/sw05/sw05_12.png" alt="Screenshot 2024-10-22 233349.png" style="width:50%; height:auto;">
+    <img src="Images/sw05/sw05_12.png" alt="Screenshot 2024-10-22 233349.png" style="width:50%; height:auto;">
 
 - Ingredient Substitution: Recipes should be catered to the users according to their food restrictions and inside their users preferences. Nonetheless, if the user forgot about something and came across an ingredient they disliked in a recipe, there will be a “…” next to the ingredients on the list which will let the user know if they can exclude the ingredient for the recipe or if the ingredient cannot be excluded then it will offer replacement recommendations.
 
-<img src="Images/sw05/sw05_5.png" alt="Screenshot 2024-10-22 232707.png" style="width:50%; height:auto;">
+    <img src="Images/sw05/sw05_5.png" alt="Screenshot 2024-10-22 232707.png" style="width:50%; height:auto;">
 
 ### Feedback in MealBestie
 
 - Ingredient Substitution Complaint/Feedback : After the user skims through the ingredient substitution and sees that the system did not provide successful recommendations they can report this directly on the recipe screen.
 
-<img src="Images/sw05/sw05_13.png" alt="Screenshot 2024-10-23 000033.png" style="width:50%; height:auto;">
+    <img src="Images/sw05/sw05_13.png" alt="Screenshot 2024-10-23 000033.png" style="width:50%; height:auto;">
 
 - App Feedback: After a successful cooking session, Annabelle wants to provide her feedback on the efficiency of the app so she goes to the profile menu/screen and taps the “Send us Feedback” tab to write her thoughts and recommendations for improvement, after pressing send, her screen displays a message pop up message, letting her know that her feedback was received.
 
-<img src="Images/sw05/sw05_16.png" alt="Screenshot 2024-10-23 at 11.20.03.png" style="width:50%; height:auto;">
+    <img src="Images/sw05/sw05_16.png" alt="Screenshot 2024-10-23 at 11.20.03.png" style="width:50%; height:auto;">
