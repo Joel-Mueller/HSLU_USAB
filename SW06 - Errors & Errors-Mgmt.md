@@ -2,6 +2,7 @@
 
 - [🏠 Home](index.md)
 - [💡 Learn Facts](LearnFacts/Learn%20Facts%20SW06.md)
+- [✍️ Transfer Tasks](TransferTasks/Transfer%20Tasks%20SW06.md)
 
 ## Scenario Persona
 
