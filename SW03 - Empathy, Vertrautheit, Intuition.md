@@ -53,7 +53,7 @@ Apps can enhance user experience by building familiarity through intuitive desig
 - Tasty
     - Intuitive Design: When Annabella searches for something, she has some quick and popular options to choose from. Unfortunately, there is no filter option to filter out products or ingredients she doesn't want.
         
-        <img src="Images/sw03/sw03_3.png" alt="IMG_2920.PNG" style="width:50%; height:auto;">
+        <img src="Images/sw03/sw03_3.jpeg" alt="IMG_2920.PNG" style="width:50%; height:auto;">
 
         
     - Familiar layouts: The Discover feature provides a variety of recipe options that other app users have already tried. Annabella is familiar with this concept from Instagram, so she quickly realises she can scroll through and explore new recipes with ease. Unfortunately also there is no filtering option for things she doesn't want to see.
