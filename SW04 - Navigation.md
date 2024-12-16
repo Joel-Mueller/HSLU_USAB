@@ -13,61 +13,61 @@ She reluctantly opens the app to try and quickly find a recipe she can cook befo
 
 Navigation is a crucial part to any system, including apps. A good navigation concept that best fits the goal of the app makes for an easy user experience with no hassle that leaves a lasting positive impression.
 
-- Calendars
+### Calendars
     
-    The app “Calendars” uses a hamburger menu navigation concept. It is the only way to navigate in the app as the tabbed view offers only a switch between months (Figure 5). It is a good implementation because this means that a menu that is very full of items is hidden from view.
+The app “Calendars” uses a hamburger menu navigation concept. It is the only way to navigate in the app as the tabbed view offers only a switch between months (Figure 5). It is a good implementation because this means that a menu that is very full of items is hidden from view.
     
-    The hamburger menu utilises toggles to minimise the long list of calendars (Figure 1), offering a sleek look. However, the default state of the menu is to have all the group toggles open (Figure 2), which means that to access anything that can be seen at the bottom of Figure 1, such as Tips & Tricks - a tutorial on how to best use the app - and Settings requires a lot of scrolling. It is also not very intuitive, since these buttons are not highlighted in any way compared to the calendar menus.
+The hamburger menu utilises toggles to minimise the long list of calendars (Figure 1), offering a sleek look. However, the default state of the menu is to have all the group toggles open (Figure 2), which means that to access anything that can be seen at the bottom of Figure 1, such as Tips & Tricks - a tutorial on how to best use the app - and Settings requires a lot of scrolling. It is also not very intuitive, since these buttons are not highlighted in any way compared to the calendar menus.
     
-    The Calendars app also uses the Settings space as a space to personalise everything, including the user’s profile, the app’s themes, calendar defaults such as alerts, and system defaults such as time zone and which type of calendar a user prefers as can be seen in Figure 3.
+The Calendars app also uses the Settings space as a space to personalise everything, including the user’s profile, the app’s themes, calendar defaults such as alerts, and system defaults such as time zone and which type of calendar a user prefers as can be seen in Figure 3.
     
-    The app has a switchable view, but the default and most practical is the monthly view that displays all events taking place as shown in Figure 4. It displays them chronologically for each day and is able to fit up to five events.
+The app has a switchable view, but the default and most practical is the monthly view that displays all events taking place as shown in Figure 4. It displays them chronologically for each day and is able to fit up to five events.
     
-        <img src="Images/sw04/sw04_9.jpg" alt="Figure 1: Collapsed hamburger menu in Calendars app" style="width:30%; height:auto;">
+<img src="Images/sw04/sw04_9.jpg" alt="Figure 1: Collapsed hamburger menu in Calendars app" style="width:30%; height:auto;">
 
-        *Figure 1: Collapsed hamburger menu in Calendars app*
+*Figure 1: Collapsed hamburger menu in Calendars app*
         
-        <img src="Images/sw04/sw04_16.jpg" alt="Figure 2: Expanded hamburger menu in Calendars app" style="width:30%; height:auto;">
+<img src="Images/sw04/sw04_16.jpg" alt="Figure 2: Expanded hamburger menu in Calendars app" style="width:30%; height:auto;">
 
-        *Figure 2: Expanded hamburger menu in Calendars app*
+*Figure 2: Expanded hamburger menu in Calendars app*
         
-        <img src="Images/sw04/sw04_15.jpg" alt="Figure 3: Settings menu expanded in Calendar app" style="width:30%; height:auto;">
+<img src="Images/sw04/sw04_15.jpg" alt="Figure 3: Settings menu expanded in Calendar app" style="width:30%; height:auto;">
 
-        *Figure 3: Settings menu expanded in Calendar app*
+*Figure 3: Settings menu expanded in Calendar app*
         
-        <img src="Images/sw04/sw04_7.jpg" alt="Figure 4: Monthly view of Calendar app" style="width:30%; height:auto;">
+<img src="Images/sw04/sw04_7.jpg" alt="Figure 4: Monthly view of Calendar app" style="width:30%; height:auto;">
 
-        *Figure 4: Monthly view of Calendar app*
+*Figure 4: Monthly view of Calendar app*
         
-        <img src="Images/sw04/sw04_10.jpg" alt="Figure 5: Tabbed view of Calendar app, which offers only a scrolling system between months." style="width:30%; height:auto;">
+<img src="Images/sw04/sw04_10.jpg" alt="Figure 5: Tabbed view of Calendar app, which offers only a scrolling system between months." style="width:30%; height:auto;">
 
-        *Figure 5: Tabbed view of Calendar app, which offers only a scrolling system between months.*
+*Figure 5: Tabbed view of Calendar app, which offers only a scrolling system between months.*
     
-- SBB Mobile
+### SBB Mobile
     
-    The SBB Mobile app uses a tabbed view at the bottom of the app. It offers access to all customisations in the app, with the expansions showing up when a tab at the bottom is clicked. This system works well for the SBB app as it allows it to have a clear, minimalistic structure throughout the app.
+The SBB Mobile app uses a tabbed view at the bottom of the app. It offers access to all customisations in the app, with the expansions showing up when a tab at the bottom is clicked. This system works well for the SBB app as it allows it to have a clear, minimalistic structure throughout the app.
     
-    The Plan tab is the first and default tab. It is very simple and quick to use to look up public transport connections using just a swipe across the screen (Figure 6). It gives the user a very fast process when they are in a rush to buy a ticket. The second Trip tab (Figure 7) displays the saved trips in chronological order so the user can easily keep up with connections and delays of their upcoming trips.
+The Plan tab is the first and default tab. It is very simple and quick to use to look up public transport connections using just a swipe across the screen (Figure 6). It gives the user a very fast process when they are in a rush to buy a ticket. The second Trip tab (Figure 7) displays the saved trips in chronological order so the user can easily keep up with connections and delays of their upcoming trips.
     
-    However, the issue with having such a minimalistic upfront look is that any of the more full tabs are very hard to navigate from the first go and need to be learned. Figure 8 shows the tab Shops & Services, which, especially if you don’t know the Swiss transport system, gives a long list all at once about types of tickets that can be purchased with no further explanation of what they’re for unless the user clicks on them and then on the information button, which is a very long path.
+However, the issue with having such a minimalistic upfront look is that any of the more full tabs are very hard to navigate from the first go and need to be learned. Figure 8 shows the tab Shops & Services, which, especially if you don’t know the Swiss transport system, gives a long list all at once about types of tickets that can be purchased with no further explanation of what they’re for unless the user clicks on them and then on the information button, which is a very long path.
     
-    Similarly, the Profile tab looks very busy at a first glance and requires a thorough reading-through in order to understand where to press next to reach the correct setting change, unlike the Calendars app that has all the settings together in one place (Figure 9).
+Similarly, the Profile tab looks very busy at a first glance and requires a thorough reading-through in order to understand where to press next to reach the correct setting change, unlike the Calendars app that has all the settings together in one place (Figure 9).
     
-        <img src="Images/sw04/sw04_14.jpg" alt="Figure 6: Plan tab of the SBB Mobile app" style="width:30%; height:auto;">
+<img src="Images/sw04/sw04_14.jpg" alt="Figure 6: Plan tab of the SBB Mobile app" style="width:30%; height:auto;">
 
-        *Figure 6: Plan tab of the SBB Mobile app*
+*Figure 6: Plan tab of the SBB Mobile app*
         
-        <img src="Images/sw04/sw04_13.jpg" alt="Figure 7: Trips tab of the SBB Mobile app" style="width:30%; height:auto;">
+<img src="Images/sw04/sw04_13.jpg" alt="Figure 7: Trips tab of the SBB Mobile app" style="width:30%; height:auto;">
 
-        *Figure 7: Trips tab of the SBB Mobile app*
+*Figure 7: Trips tab of the SBB Mobile app*
         
-        <img src="Images/sw04/sw04_8.jpg" alt="Figure 8: Shops & Services tab of the SBB Mobile app" style="width:30%; height:auto;">
+<img src="Images/sw04/sw04_8.jpg" alt="Figure 8: Shops & Services tab of the SBB Mobile app" style="width:30%; height:auto;">
 
-        *Figure 8: Shops & Services tab of the SBB Mobile app*
+*Figure 8: Shops & Services tab of the SBB Mobile app*
         
-        <img src="Images/sw04/sw04_12.jpg" alt="Figure 9: Profile tab of the SBB Mobile app" style="width:30%; height:auto;">
+<img src="Images/sw04/sw04_12.jpg" alt="Figure 9: Profile tab of the SBB Mobile app" style="width:30%; height:auto;">
 
-        *Figure 9: Profile tab of the SBB Mobile app*
+*Figure 9: Profile tab of the SBB Mobile app*
     
 
 | Scenario | Finding / Description | Garret-L / Severity | Proposal |
