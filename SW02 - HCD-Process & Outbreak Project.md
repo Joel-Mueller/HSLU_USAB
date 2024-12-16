@@ -10,7 +10,10 @@
 
 - User: A student (in a technical degree) with a good digital affinity, who wants to learn how to cook but has a strict schedule with not a lot of free time and needs to approach cooking in an efficient way.
 
-![sw02_1.png](Images/sw02/sw02_1.png)
+<div style="text-align: center;">
+    <img src="Images/sw02/sw02_1.png" alt="Annabella" style="width:50%; height:auto;">
+    <p style="font-style: italic;">Figure 1: Annabella</p>
+</div>
 
 - Goals: I don‘t want a complicated recipe, I want to cook with in season products (cheaper, sustainable and tastier), I want to save time when I cook.
 - Tasks: Scroll, search for a recipe, gather ingredients, cook, favorite recipe (optional).
