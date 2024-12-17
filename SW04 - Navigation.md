@@ -69,6 +69,7 @@ Similarly, the Profile tab looks very busy at a first glance and requires a thor
 
 *Figure 9: Profile tab of the SBB Mobile app*
     
+## Tables with the scenario and proposal
 
 | Scenario | Finding / Description | Garret-L / Severity | Proposal |
 | --- | --- | --- | --- |

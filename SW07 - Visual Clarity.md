@@ -97,7 +97,7 @@ A good app should have well designed icons in it. They should be clear, intuitiv
 
     *Figure 13: Bad colour contrast example tasty 2*
 
-### Summary
+## Tables with the scenario and proposal
 
 | Scenario-part | Finding / Description | Garret-L / Severity | Proposal  |
 | --- | --- | --- | --- |

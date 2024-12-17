@@ -29,14 +29,14 @@ We compared our app with other cooking apps (like [example cooking apps - , Tast
 **Internal Consistency Analysis**  
 We tested the app for consistency in content, functionality, and visuals across all screens.
 
-### **1. Content**
+### 1. Content
 | Screen/Section       | Findings                                                                               | Status       |
 |-----------------------|---------------------------------------------------------------------------------------|--------------|
 | **User Preferences**  | Text is clear and descriptive. Options like "Diet," "Language," and "Measurement" are consistent. | ✅ Consistent |
 | **Ingredient List**   | Some placeholder text is used in descriptions. Needs standardization.                 | ⚠ Review Needed |
 | **Navigation Buttons**| Button labels like "Go Back" and "Cook it!" are used consistently.                    | ✅ Consistent |
 
-### **2. Function**
+### 2. Function
 | Screen/Section          | Findings                                                                 | Status       |
 |--------------------------|-------------------------------------------------------------------------|--------------|
 | **Navigation**           | "Profile > Preferences > Feedback" flows logically and consistently.    | ✅ Consistent |
@@ -44,7 +44,7 @@ We tested the app for consistency in content, functionality, and visuals across 
 | **Feedback Submission**  | Submission process (input → confirmation popup) is consistent and intuitive. | ✅ Consistent |
 | **Back Navigation**      | "Go Back" buttons appear consistently across all screens.               | ✅ Consistent |
 
-### **3. Visuals**
+### 3. Visuals
 | Screen/Section        | Findings                                                                 | Status       |
 |------------------------|-------------------------------------------------------------------------|--------------|
 | **Fonts**             | Font type and size are consistent across all screens.                    | ✅ Consistent |

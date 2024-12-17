@@ -98,6 +98,8 @@ Google Drive allows users to set specific sharing permissions (View, Comment, Ed
 
 *Figure 11: Google Drive share preferences*
 
+## Tables with the scenario and proposal
+
 | Scenario | Finding / Description | Garret-L / Severity | Proposal |
 | --- | --- | --- | --- |
 | Deleting an account (Figure 1 & 2) | Annabella slipped up and deleted her account because the button was gray, and located on the homepage, and as such didn’t clearly state the severe consequences of the click. | Interface design / serious problem | Locating the “Delete Account” button at the bottom of the preferences page. (Slip prevention) |

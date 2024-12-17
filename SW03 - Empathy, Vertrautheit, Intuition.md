@@ -79,7 +79,7 @@ Apps can enhance user experience by building familiarity through intuitive desig
 
 
         
-### Tables with the scenario and proposal
+## Tables with the scenario and proposal
 
 | Scenario-part | Finding / Description | Garret-L / Severity | Proposal  |
 | --- | --- | --- | --- |

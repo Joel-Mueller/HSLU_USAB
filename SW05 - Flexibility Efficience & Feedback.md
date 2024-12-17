@@ -89,7 +89,8 @@ This approach to feedback is problematic. Users are restricted and can't communi
 <img src="Images/sw05/sw05_3.png" alt="Figure 11 : Feedback screen displaying error - Tasty App" style="width:50%; height:auto;">
 
 *Figure 11 : Feedback screen displaying error - Tasty App*
-    
+
+## Tables with the scenario and proposal
 
 | Scenario-part | Finding / Description | Garret-L / Severity | Proposal  |
 | --- | --- | --- | --- |
