@@ -1,6 +1,6 @@
 # 🔎 Visual Clarity
 
-- 🏠 Home](index.md)
+- [🏠 Home](index.md)
 - [💡 Learn Facts](LearnFacts/Learn%20Facts%20SW07.md)
 
 ## Scenario Persona
