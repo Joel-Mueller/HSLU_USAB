@@ -41,10 +41,9 @@ There are many navigation concepts that can be used and they all serve different
 
 **Horizontal Navigation**
 
-<img src="../Images/sw04/sw04_19.png" alt="Image source: Screenshot from post.ch" style="width:50%; height:auto;">
+<img src="../Images/sw04/sw04_19.png" alt="Image source: Screenshot from post.ch" style="width:100%; height:auto;">
 
-
-Image source: Screenshot from post.ch
+*Image source: Screenshot from post.ch*
 
 Pros:
 
@@ -61,10 +60,9 @@ Cons:
 
 **Vertical navigation:**
 
-<img src="../Images/sw04/sw04_2.png" alt="Image source: Screenshot of this Notion’s side menu" style="width:50%; height:auto;">
+<img src="../Images/sw04/sw04_2.png" alt="Image source: Screenshot of this Notion’s side menu" style="width:25%; height:auto;">
 
-
-Image source: Screenshot of this Notion’s side menu
+*Image source: Screenshot of this Notion’s side menu*
 
 Pros:
 
@@ -79,10 +77,9 @@ Cons:
 
 **Dropdown Menu:**
 
-<img src="../Images/sw04/sw04_3.png" alt="Image source: Screenshot from post.ch" style="width:50%; height:auto;">
+<img src="../Images/sw04/sw04_3.png" alt="Image source: Screenshot from post.ch" style="width:70%; height:auto;">
 
-
-Image source: Screenshot from post.ch
+*Image source: Screenshot from post.ch*
 
 Pros:
 
@@ -111,15 +108,13 @@ Cons:
 - Invisible at first sight
 - Always requires an action to be accessed (like clicking a button)
 
-<img src="../Images/sw04/sw04_1.png" alt="Image source: Screenshot from SW04 Navigation presentation" style="width:50%; height:auto;">
+<img src="../Images/sw04/sw04_1.png" alt="Image source: Screenshot from SW04 Navigation presentation" style="width:25%; height:auto;">
 
-
-Image source: Screenshot from SW04 Navigation presentation
+*Image source: Screenshot from SW04 Navigation presentation*
 
 **Breadcrumbs:**
 
-<img src="../Images/sw04/sw04_5.png" alt="image.png" style="width:50%; height:auto;">
-
+<img src="../Images/sw04/sw04_5.png" alt="image.png" style="width:100%; height:auto;">
 
 Pros:
 
@@ -131,10 +126,9 @@ Pros:
 
 **Hamburger Menu:**
 
-<img src="../Images/sw04/sw04_17.jpg" alt="Image source: Screenshot from Gmail" style="width:50%; height:auto;">
+<img src="../Images/sw04/sw04_17.jpg" alt="Image source: Screenshot from Gmail" style="width:25%; height:auto;">
 
-
-Image source: Screenshot from Gmail
+*Image source: Screenshot from Gmail*
 
 Pros:
 
@@ -150,8 +144,7 @@ Cons:
 
 <img src="../Images/sw04/sw04_11.png" alt="Image source: Screenshot from SW04 Navigation presentation" style="width:50%; height:auto;">
 
-
-Image source: Screenshot from SW04 Navigation presentation
+*Image source: Screenshot from SW04 Navigation presentation*
 
 Pros:
 
@@ -165,8 +158,7 @@ Cons:
 
 <img src="../Images/sw04/sw04_18.jpg" alt="Image source: Screenshot from SBB Mobile app" style="width:50%; height:auto;">
 
-
-Image source: Screenshot from SBB Mobile app
+*Image source: Screenshot from SBB Mobile app*
 
 Pros:
 
