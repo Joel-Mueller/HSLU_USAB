@@ -54,11 +54,11 @@ Figure 5, the account QR Code once again has the same accessibility feature of i
 ## Implementation
 To implement everything learned about accessibility the colour contrast analyser was used on our own app and adjustments were made where needed.
 
-<img src="Images/sw09/sw09_7.png" alt="Screenshot 2024-11-12 at 09.46.37.jpeg" style="width:30%; height:auto;">
+<img src="Images/sw09/sw09_7.png" alt="Screenshot 2024-11-12 at 09.46.37.jpeg" style="width:60%; height:auto;">
 
 *Figure 6: Colour Contrast First Rendition*
 
-<img src="Images/sw09/sw09_8.png" alt="Screenshot 2024-11-12 at 09.46.37.jpeg" style="width:30%; height:auto;">
+<img src="Images/sw09/sw09_8.png" alt="Screenshot 2024-11-12 at 09.46.37.jpeg" style="width:60%; height:auto;">
 
 *Figure 7: Colour Contrast Final Prototype*
 
